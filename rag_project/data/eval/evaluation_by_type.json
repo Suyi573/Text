@@ -1,0 +1,49 @@
+{
+  "factoid": {
+    "count": 15,
+    "exact_match_accuracy": 0.13333333333333333,
+    "keyword_match_accuracy": 0.2,
+    "average_token_f1": 0.35326843444468975,
+    "idk_rate": 0.0
+  },
+  "which": {
+    "count": 2,
+    "exact_match_accuracy": 0.0,
+    "keyword_match_accuracy": 0.0,
+    "average_token_f1": 0.0,
+    "idk_rate": 0.0
+  },
+  "definition": {
+    "count": 7,
+    "exact_match_accuracy": 0.0,
+    "keyword_match_accuracy": 0.2857142857142857,
+    "average_token_f1": 0.28630050863041945,
+    "idk_rate": 0.0
+  },
+  "how": {
+    "count": 8,
+    "exact_match_accuracy": 0.0,
+    "keyword_match_accuracy": 0.125,
+    "average_token_f1": 0.19790564494498433,
+    "idk_rate": 0.0
+  },
+  "why": {
+    "count": 10,
+    "exact_match_accuracy": 0.0,
+    "keyword_match_accuracy": 0.0,
+    "average_token_f1": 0.20106728590367456,
+    "idk_rate": 0.0
+  },
+  "comparison": {
+    "count": 3,
+    "exact_match_accuracy": 0.0,
+    "keyword_match_accuracy": 0.3333333333333333,
+    "average_token_f1": 0.17996902665094885,
+    "idk_rate": 0.0
+  },
+  "unanswerable": {
+    "count": 5,
+    "unanswerable_accuracy": 0.0,
+    "idk_rate": 0.0
+  }
+}

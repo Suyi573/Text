@@ -1,0 +1,1354 @@
+{
+  "results": [
+    {
+      "query_id": "q_000",
+      "query": "The name 'bouillabaisse' is derived from which two words?",
+      "response": "The name 'bouillabaisse' is derived from the words 'bolhir' (boil) and 'abaissar' (simmer).",
+      "retrieved_context": [
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_04_14_1_france_and_monaco__p1",
+          "text": "The name bouillabaisse stems from a combination of words “bolhir” (to boil) and “abaissar” (to simmer), referring to the process of first boiling the broth, then adding each type of fish one by one, returning the pot to a simmer between each addition"
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p48",
+          "text": "Bouillabaisse is a substantial dish from the French port of Marseille, capital of Provence. It is a stew for at least eight people, because it should contain many types of fish such as crayfish, gurnard, weever, John Dory, monkfish, conger eel, whiting, sea bass, and crab. These are cooked with Mediterranean vegetables and herbs, namely onions, garlic, tomatoes, thyme, fennel, parsley, bay, and orange peel. [ f ]"
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_04_14_1_france_and_monaco__p1",
+          "text": "The specific recipe of bouillabaisse comes from the southern coastal city of Marseille, and was typically made by fisherman, making use of whatever was included in the catch of the day that couldn’t be sold"
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_04_14_1_france_and_monaco__p1",
+          "text": "I put a few varieties of fish like cod and mullet in my bouillabaisse, as well as prawns, clams and mussels, cooked in a broth flavoured with leeks, onions, carrots, celery, fennel, garlic, orange zest, saffron and tomato. The secret ingredient is Pernod, a french liquor that tastes strongly of aniseed, and which nicely complements seafood and sings in harmony with the flavour of orange peel"
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_04_14_1_france_and_monaco__p1",
+          "text": "I must confess that, horrifically uncultured as I clearly am, the first time I heard of bouillabaisse was in a Harry Potter book, wherein the English characters regarded it with suspicion and general distaste. The ever-elegant and ethereally beautiful Fleur Delacour had a penchant for the seafood stew, however, so I felt like it must have some attractive qualities"
+        }
+      ]
+    },
+    {
+      "query_id": "q_001",
+      "query": "Which two ingredients are traditionally not used in authentic Italian carbonara?",
+      "response": "maccheroni al ragù",
+      "retrieved_context": [
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2018_10_14_69_northern_italy__p2",
+          "text": "For instance, cream or garlic must never, ever be included in a traditional carbonara – no exceptions. Now that we’ve addressed the elephant in the room, we can move onto how to make carbonara properly. Trust me, it’s much more delicious the original way (and actually easier!). First, the pasta is cooked to al dente in salted boiling water, for which I used bucatini, common in Lazio, which is the region containing Rome"
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2018_02_18_47_centralitaly__p1",
+          "text": "Carbonara is famous the world over, although often with heretic transgressions embedded in the recipes. For instance, cream or garlic must never, ever be included in a traditional carbonara – no exceptions. Now that we’ve addressed the elephant in the room, we can move onto how to make carbonara properly. Trust me, it’s much more delicious the original way (and actually easier!)"
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2018_02_18_47_centralitaly__p1",
+          "text": "So, that’s the end of the recipe. So simple! So quick! So delicious! Carbonara has to be one of my all-time favourite Italian recipes, and is one I regularly make with my Italian friend when we’ve had enough of the world (although we sometimes add onion to the bacon, don’t tell her granny!)"
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2018_02_18_47_centralitaly__p1",
+          "text": "Too much carbonara to focus, perhaps? Then again, the dish comes from central Italy, specifically Rome, and in central dialect “carbonada” means bacon, so perhaps the etymology is simple after all."
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2018_10_14_69_northern_italy__p2",
+          "text": "Too much carbonara to focus, perhaps? Then again, the dish comes from central Italy, specifically Rome, and in central dialect “carbonada” means bacon, so perhaps the etymology is simple after all. Finally, for the red stripe of my pasta flag, I cooked maccheroni al ragù. Maccheroni, I am reliably informed by Italians, is one of the most popular pasta shapes in Italy, but is almost unheard of here in Australia for reasons unknown to us all"
+        }
+      ]
+    },
+    {
+      "query_id": "q_002",
+      "query": "What is chermoula?",
+      "response": "chermoula is a wet north African marinade made of finely processed coriander, oil, cumin, onion, preserved lemons, chilli, salt and pepper.",
+      "retrieved_context": [
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_05_07_13_north_africa__p2",
+          "text": "Chermoula is a wet north African marinade, made of finely processed coriander, oil, cumin, onion, preserved lemons, chilli, salt and pepper. It turns out sort of soupy and green, and reminds me of the Argentinian chimichurri aesthetically, although with quite a different taste. The chermoula is traditionally eaten with seafood, which I complied with by marinating a whole snapper in it, then grilling briefly"
+        },
+        {
+          "doc_id": "wiki__italian_cuisine__p99",
+          "text": "Ascoli, Marche's southernmost province, is well known for olive all'ascolana (stoned olives stuffed with several minced meats, egg, and Parmigiano Reggiano cheese, then fried). Another well-known Marche product are the maccheroncini di Campofilone, from little town of Campofilone, a type of hand-made pasta made only of hard grain flour and eggs, cut so thin that melts in one's mouth."
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_11_02_37_southern_italy__p3",
+          "text": "Caprese salad beautifully displays all the colours of the Italian flag, and is famous for its delicious simplicity of fresh mozzarella, tomato and basil, drizzled with olive oil. Orange and fennel salad is also from Sicily, and is one of my favourite combinations of flavours"
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_11_02_37_southern_italy__p1",
+          "text": "Fregola is a type of pasta from Sardinia, that has clear influences from North Africa, reflecting the short trip over the Mediterranean between the two places. True to its name, which derives from a word meaning “crumbs”, the pasta is formed by rolling semolina dough into small balls that are then toasted before being boiled"
+        },
+        {
+          "doc_id": "wiki__italian_cuisine__p96",
+          "text": "Other regional specialties include cotoletta alla milanese (a fried breaded cutlet of veal similar to Wiener schnitzel, but cooked \"bone-in\"), cassoeula (a typically winter dish prepared with cabbage and pork), mostarda (rich condiment made with candied fruit and a mustard flavoured syrup), Valtellina's bresaola (air-dried salted beef), pizzoccheri (a flat ribbon pasta made with 80% buckwheat flour and 20% wheat flour cooked along with greens,"
+        }
+      ]
+    },
+    {
+      "query_id": "q_003",
+      "query": "What is passata in Italian cuisine?",
+      "response": "passata is a seedless, skinless puree of tomatoes",
+      "retrieved_context": [
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_11_02_37_southern_italy__p0",
+          "text": "Pasta is eaten as a part of most meals, traditionally as the first course (primo) between antipasto and a second course, usually involving meat or fish. Where the north of Italy has a lot more cream and butter in their dishes, the south is defined by tomato-based dishes that are flavoured with strong ingredients such as chilli and garlic. One of the staples of this cuisine is tomato passata, which is a seedless, skinless puree of tomatoes"
+        },
+        {
+          "doc_id": "wiki__italian_cuisine__p52",
+          "text": "Pasta, meat, and vegetables are central to the cuisine of Abruzzo and Molise. Chili peppers (Italian: peperoncini) are typical of Abruzzo, where they are called diavoletti (lit.'little devils') for their spicy heat. Due to the long history of shepherding in Abruzzo and Molise, lamb dishes are common. Lamb meat is often paired with pasta. Mushrooms (usually wild mushrooms), rosemary, and garlic are also extensively used in Abruzzese cuisine."
+        },
+        {
+          "doc_id": "wiki__italian_cuisine__p88",
+          "text": "Pasta dishes based on the use of guanciale (unsmoked bacon prepared with pig's jowl or cheeks) are often found in Lazio, such as carbonara pasta and amatriciana pasta. Another pasta dish of the region is arrabbiata, with spicy tomato sauce. The regional cuisine widely use offal, resulting in dishes such as the entrail-based rigatoni with pajata sauce and coda alla vaccinara. Abbacchio is a meat dish based on lamb from the Roman cuisine."
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_11_02_37_southern_italy__p0",
+          "text": "In preparation for this week, I made my own passata late last summer, when tomatoes were cheap and delicious. To do this, I followed a very complicated recipe, using different types of tomatoes, and making three separate preparations of fresh, boiled and baked passata, then combining them"
+        },
+        {
+          "doc_id": "wiki__italian_cuisine__p66",
+          "text": "Among the traditional dishes are pasta con i peperoni cruschi, pasta served with dried crunchy pepper and breadcrumbs; lagane e ceci, also known as piatto del brigante (lit.'brigand's dish'), pasta prepared with chickpeas and peeled tomatoes; tumact me tulez, tagliatelle -dish of Arbëreshe culture; rafanata, a type of omelette with horseradish; ciaudedda, a vegetable stew with artichokes, potatoes, broad beans, and pancetta; and the baccalà alla lucana, one of the few recipes made with fish. Desserts include taralli dolci, made with sugar glaze and scented with anise and calzoncelli, fried pastries filled with a cream of chestnuts and chocolate."
+        }
+      ]
+    },
+    {
+      "query_id": "q_004",
+      "query": "What are the three core components of the Mediterranean dietary trinity?",
+      "response": "The three core components of the Mediterranean dietary trinity are the olive, wheat, and the grape, yielding oil, bread, and wine respectively.",
+      "retrieved_context": [
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p13",
+          "text": "Essid identifies the \"trinity\" of basic ingredients of traditional Mediterranean cuisine as the olive, wheat, and the grape, yielding oil, bread, and wine respectively. The archaeologist Colin Renfrew calls this the \"Mediterranean triad\"."
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p1",
+          "text": "Many writers define the three core elements of the cuisine as the olive, wheat, and the grape, yielding olive oil, bread and pasta, and wine; other writers deny that the widely varied foods of the Mediterranean basin constitute a cuisine at all. A common definition of the geographical area covered, proposed by David, follows the distribution of the olive tree."
+        },
+        {
+          "doc_id": "wiki__mediterranean_diet__p19",
+          "text": "There are variations of the \"Mediterranean diets\" in different countries and among the individual populations of the Mediterranean basin, due to ethnic, cultural, economic and religious diversities. The \"Mediterranean diet\" as defined by dietitians generally includes the following components, which are not typical of diets in the Mediterranean Basin:"
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p4",
+          "text": "The cooking of the area is not to be confused with the Mediterranean diet, made popular because of the apparent health benefits of a diet rich in olive oil, wheat and other grains, fruits, vegetables, and a certain amount of seafood, but low in meat and dairy products. Mediterranean cuisine encompasses the ways that these and other ingredients, including meat, are dealt with in the kitchen, whether they are health-giving or not."
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p58",
+          "text": "In 2013, \"Mediterranean diet\", stated to encompass the \"skills, knowledge, rituals, symbols and traditions concerning crops, harvesting, fishing, animal husbandry, conservation, processing, cooking, and particularly the sharing and consumption of food\" of the Mediterranean basin, was inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity."
+        }
+      ]
+    },
+    {
+      "query_id": "q_005",
+      "query": "In Trapani (Sicily), which North African-influenced dish is commonly served with fish?",
+      "response": "Couscous",
+      "retrieved_context": [
+        {
+          "doc_id": "wiki__italian_cuisine__p111",
+          "text": "Much of the island's cuisine encourages the use of fresh vegetables such as aubergine, peppers, and tomatoes, as well as fish such as tuna, seabream, sea bass, swordfish, and cuttlefish. In Trapani, in the extreme western corner of the island, North African influences are clear in the use of various couscous based dishes, usually combined with fish. Mint is used extensively in cooking unlike the rest of Italy."
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p33",
+          "text": "Mediterranean Maghrebi cuisine includes the cuisines of Algeria, Libya, Morocco, and Tunisia. One of the most characteristic dishes of the region is couscous, a steamed, small-grained wheat semolina, served with a stew. The dish is ancient, mentioned by the Medieval traveller Ibn Battuta, and found for example also in the Western Sicilian cuisine, especially in the province of Trapani, where it was re-introduced after 1600."
+        },
+        {
+          "doc_id": "wiki__italian_cuisine__p34",
+          "text": "In northern Italy, fish (such as cod, or baccalà), potatoes, rice, corn (maize), sausages, pork, and different types of cheese are the most common ingredients. Pasta dishes with tomato are common throughout Italy. Italians use ingredients that are fresh and subtly seasoned and spiced."
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p43",
+          "text": "Mediterranean Italian cuisine includes much of Italy outside the north and the mountainous inland regions. It is a diverse cuisine, but among its best-known and most characteristic foods are pizza in Neapolitan and Sicilian styles, pasta dishes such as spaghetti, and risotto."
+        },
+        {
+          "doc_id": "wiki__italian_cuisine__p110",
+          "text": "Sicily shows traces of all the cultures which established themselves on the island over the last two millennia. Although its cuisine undoubtedly has a predominantly Italian base, Sicilian food also has Spanish, Greek, and Arab influences. The ancient Romans introduced lavish dishes based on goose. The Byzantines favoured sweet and sour flavours and the Arabs brought sugar, citrus, rice, spinach, and saffron"
+        }
+      ]
+    },
+    {
+      "query_id": "q_006",
+      "query": "What dish is traditionally eaten on Thursdays in the Lazio region of Italy?",
+      "response": "arrabbiata",
+      "retrieved_context": [
+        {
+          "doc_id": "wiki__italian_cuisine__p88",
+          "text": "Pasta dishes based on the use of guanciale (unsmoked bacon prepared with pig's jowl or cheeks) are often found in Lazio, such as carbonara pasta and amatriciana pasta. Another pasta dish of the region is arrabbiata, with spicy tomato sauce. The regional cuisine widely use offal, resulting in dishes such as the entrail-based rigatoni with pajata sauce and coda alla vaccinara. Abbacchio is a meat dish based on lamb from the Roman cuisine."
+        },
+        {
+          "doc_id": "wiki__italian_cuisine__p87",
+          "text": "It features fresh, seasonal and simply prepared ingredients from Roman Campagna. These include peas, globe artichokes and fava beans, shellfish, milk-fed lamb and goat, and cheeses such as pecorino romano and ricotta. Olive oil is used mostly to dress raw vegetables, while strutto (pork lard) and fat from prosciutto are preferred for frying. The most popular sweets in Rome are small individual pastries called pasticcini Special dishes are often reserved for different days of the week; for example, gnocchi is eaten on Thursdays, baccalà (salted cod) on Fridays, and trippa (lit.'tripe') on Saturdays."
+        },
+        {
+          "doc_id": "wiki__italian_cuisine__p36",
+          "text": "Traditional central Italian cuisine uses ingredients such as tomatoes, all types of meat, fish, and pecorino. In Tuscany, pasta (especially pappardelle) is traditionally served with meat sauce (including game meat). In southern Italy, tomatoes (fresh or cooked into tomato sauce), peppers, olives and olive oil, garlic, artichokes, oranges, ricotta cheese, aubergines, courgette, certain types of fish (anchovies, sardines, and tuna), and capers are important components to the local cuisine."
+        },
+        {
+          "doc_id": "wiki__italian_cuisine__p89",
+          "text": "Iconic of Lazio is cheese made from ewes' milk (pecorino romano), porchetta (savory, fatty, and moist boneless pork roast), and Frascati white wine. The influence of the ancient Jewish community can be noticed in the Roman cuisine's traditional carciofi alla giudia."
+        },
+        {
+          "doc_id": "wiki__italian_cuisine__p61",
+          "text": "Goat and lamb are occasionally used. The region is known for pasta made from durum wheat and traditional pasta dishes featuring orecchiette -style pasta, often served with tomato sauce, potatoes, mussels or broccoli rabe. Pasta with cherry tomatoes and arugula is also popular."
+        }
+      ]
+    },
+    {
+      "query_id": "q_007",
+      "query": "What health benefit is commonly associated with drinking karkadeh in Egypt?",
+      "response": "I don't know based on the provided context.",
+      "retrieved_context": [
+        {
+          "doc_id": "wiki__egyptian_cuisine__p59",
+          "text": "On a typical street in downtown Cairo, one can find many vendors and open-air cafés selling the drink. In Egypt, karkadeh is used as a means to lower blood pressure when consumed in high amounts. Infusions of mint, cinnamon, dried ginger, and anise are also common, as is sahlab"
+        },
+        {
+          "doc_id": "wiki__egyptian_cuisine__p59",
+          "text": "Besides true tea, herbal teas are also often served at Egyptian teahouses. Karkadeh (كركديه), a tea of dried hibiscus sepals, is particularly popular, as it is in other parts of North Africa. It is generally served extremely sweet and cold but may also be served hot. This drink is said to have been a preferred drink of the pharaohs. In Egypt and Sudan, wedding celebrations are traditionally toasted with a glass of hibiscus tea"
+        },
+        {
+          "doc_id": "wiki__egyptian_cuisine__p3",
+          "text": "Black Tea is the national drink of Egypt and mint is a popular addition throughout Egyptian cafés, while beer is the most common alcoholic beverage. Although Islam is the majority faith in Egypt and practicing Muslims tend to avoid alcohol, alcoholic drinks are still readily available in the country. Hibiscus tea is also a very popular traditional beverage of the Egyptians, especially served cold in the winter."
+        },
+        {
+          "doc_id": "wiki__egyptian_cuisine__p55",
+          "text": "Tea (شاي, shai [ʃæːj]) is the national drink in Egypt, followed only distantly by coffee. Egyptian tea is uniformly black and sour and is generally served in a glass, sometimes with milk to make shai bi-laban (شاي بلبن). Tea packed and sold in Egypt is almost exclusively imported from Kenya and Sri Lanka. Egyptian tea comes in two varieties, koshari and sa‘idi."
+        },
+        {
+          "doc_id": "wiki__egyptian_cuisine__p60",
+          "text": "Coffee (قهوة, ahwa Arabic: [ˈʔæhwæ]) is considered a part of the traditional welcome in Egypt. It is usually prepared in the Turkish style in a small coffee pot, which is called kanakah (كنكه) and served in a small coffee cup called a fengan (فنجان). The coffee is usually strong and sweetened with sugar to various degrees;'aal riha (عال ريحه), mazbout (مضبوط) and ziyada (زيادة) respectively, while unsweetened is sada (ساده)."
+        }
+      ]
+    },
+    {
+      "query_id": "q_008",
+      "query": "How are French and Italian cuisines contrasted?",
+      "response": "French and Italian cuisines differ in their approach to complexity and perfection of technique.",
+      "retrieved_context": [
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_04_14_1_france_and_monaco__p0",
+          "text": "Early French cuisine was heavily influenced by Italy, with the 17th century often earmarked as the point at which French cuisine diverted significantly away to form its own unique style. Indeed, it’s always struck me that while Italian cooking is renowned for simplicity of recipes and freshness of ingredients, French cooking is renowned for complexity of recipes and perfection of technique"
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2018_10_14_69_northern_italy__p0",
+          "text": "One of the most striking things I’ve discovered about Italian cuisine is the huge gap between what we might consider to be authentic Italian cuisine in English-speaking countries and what is actually traditional. The food tends to be much simpler, with fewer ingredients than I would have expected from growing up in Australia, but at the same time it has a much wider diversity of meals than is represented in the typical Italian restaurant"
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_04_14_1_france_and_monaco__p0",
+          "text": "Another curious trend I’ve noticed is that French cookery revolves around the concept of “sauce” which the British and therefore the Australians have also taken on (to a perhaps less refined extent), while the Italians are less used to having a specific sauce accompanying each meal"
+        },
+        {
+          "doc_id": "wiki__italian_cuisine__p51",
+          "text": "Each area has its own specialties, primarily at a regional level, but also at the provincial level. The differences can come from a bordering country (such as France, Austria or Slovenia), whether a region is close to the sea or the mountains, and economics. Italian cuisine is also seasonal with priority placed on the use of fresh produce."
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_04_14_1_france_and_monaco__p0",
+          "text": "Every cooking show I’ve ever watched has told me that France has long been the epicentre of Western food culture. Indeed, for much of the 20th century, aspiring chefs of the world were told to go and study French cookery, preferably in France, or else they would surely amount to nothing"
+        }
+      ]
+    },
+    {
+      "query_id": "q_009",
+      "query": "Which plant is known as the bread tree in Mediterranean mountain regions?",
+      "response": "I don't know based on the provided context.",
+      "retrieved_context": [
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p30",
+          "text": "In mountainous areas of the Mediterranean, wheat was often replaced by chestnuts as a staple food, earning the chestnut tree the name \"bread tree\"."
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p17",
+          "text": "Wheat is a staple food in the Mediterranean region. Wheat bread was already critically important in the empire of ancient Rome, which included the entire region; at that time, around 2,000 years ago, North Africa was the \"breadbasket\" of the empire. Other staple wheat-based Mediterranean foods include pasta and semolina (wheat middlings) products such as couscous and bulgur. In turn, these are made into dishes such as the Greek dessert galaktoboureko (milk börek), consisting of filo pastry parcels around a custard made with semolina. A widespread wheat dish from Turkey and the Levant to Iran and India is halva, a dessert of sweetened semolina with butter, milk, and pine kernels."
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p10",
+          "text": "Mediterranean cuisine is defined by the presence of fundamental elements which are said to play a more important role than others, reflecting a community of beliefs and practices which transcend religions, languages and even societies. The olive tree, the emblematic tree on more than one account, traces the bounds of a frontier of landscapes and lives on either side of which the Mediterranean begins or ends. Above Montelimar, nicknamed \"Gates of Provence\", is the limit of the olive."
+        },
+        {
+          "doc_id": "wiki__turkish_cuisine__p2",
+          "text": "Especially in the western parts of Turkey, where olive trees grow abundantly, olive oil is the primary type of oil used for cooking. The cuisines of the Aegean, Marmara and Mediterranean regions are rich in vegetables, herbs, and fish. Central Anatolia has many well-known specialties, such as keşkek, mantı (especially from Kayseri) and gözleme. Food names directly cognate with mantı are also found in Chinese (mantou or steamed bun), and it is generally considered to have originated in Mongolia during the 13th century."
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p55",
+          "text": "The Mediterranean diet, popularised in the 1970s, is inspired by the cuisine of Greece, especially Crete, and Southern Italy in the early 1960s. The American Diabetes Association writes about \"Mediterranean-Style Eating\", mentioning \"the traditional Mediterranean lifestyle... of... eating healthfully... together among family and friends\", and asserting that \"Mediterranean cuisine is plant-based\", citing the ingredients \"whole grains, fruits, vegetables, herbs and spices, beans, nuts, seeds, and olive oil\", and stating that most foods \"in a Mediterranean diet come from plants\"."
+        }
+      ]
+    },
+    {
+      "query_id": "q_010",
+      "query": "What type of flour is commonly used to fry fish in the Black Sea region?",
+      "response": "bacalhau",
+      "retrieved_context": [
+        {
+          "doc_id": "wiki__turkish_cuisine__p41",
+          "text": "In the Black Sea region, fish are usually fried with thick corn flour. Fish are also eaten cold; as smoked (isleme) or dried (çiroz), canned, salted or pickled (lâkerda). Fish is also cooked in salt or in dough in Turkey. Pazıda levrek is a seafood speciality which consists of sea bass cooked in chard leaves"
+        },
+        {
+          "doc_id": "wiki__turkish_cuisine__p41",
+          "text": "Turkey is surrounded by seas that contain a large variety of fish. Fish are grilled, fried or cooked slowly by the buğulama (poaching) method. Buğulama is fish with lemon and parsley, covered while cooking so that it will be cooked with steam. The term pilâki is also used for fish cooked with various vegetables, including onion in the oven. In the Black Sea region, fish are usually fried with thick corn flour"
+        },
+        {
+          "doc_id": "wiki__portuguese_cuisine__p11",
+          "text": "Foremost amongst these is bacalhau (cod), which is the type of fish most consumed in Portugal. It is said that there are more than 365 ways to cook cod, meaning at least one dish for each day of the year. Cod is almost always used dried and salted, because the Portuguese fishing tradition in the North Atlantic developed before the invention of refrigeration —therefore it needs to be soaked in water or sometimes milk before cooking. The simpler fish dishes are often flavoured with virgin olive oil and white wine vinegar."
+        },
+        {
+          "doc_id": "wiki__turkish_cuisine__p1",
+          "text": "Turkish cuisine shows variation across the country. The cooking of Istanbul, Bursa, İzmir, and the rest of the Anatolia region inherits many elements of Ottoman court cuisine, including moderate use of spices, a preference for rice over bulgur, koftes, and a wider availability of vegetable stews (türlü), eggplant, stuffed dolmas and fish. The cuisine of the Black Sea Region uses fish extensively, especially the Black Sea anchovy (hamsi) and includes maize dishes. The cuisine of the southeast (including Urfa, Gaziantep, Adıyaman and Adana) is famous for its variety of kebabs, mezes and dough-based desserts such as baklava, şöbiyet, kadayıf, katmer and künefe."
+        },
+        {
+          "doc_id": "wiki__italian_cuisine__p91",
+          "text": "Liguria is known for herbs and vegetables (as well as seafood) in its cuisine. Savory pies are popular, mixing greens and artichokes along with cheeses, milk curds, and eggs. Onions and olive oil are used. Due to a lack of land suitable for wheat, the Ligurians use chickpeas in farinata and polenta-like panissa. The former is served plain or topped with onions, artichokes, sausages, cheese or young anchovies. Farinata is typically cooked in a wood-fired oven, similar to southern pizzas. Fresh fish also features heavily in Ligurian cuisine. Baccalà (salted cod) is a prominent source of protein in coastal regions; it is traditionally prepared in a soup."
+        }
+      ]
+    },
+    {
+      "query_id": "q_011",
+      "query": "What are the typical fillings of su böreği in Turkish cuisine?",
+      "response": "turkish börek",
+      "retrieved_context": [
+        {
+          "doc_id": "wiki__turkish_cuisine__p46",
+          "text": "Börek is the general name for salty pastries made with yufka (a thick phyllo dough), which consists of thin layers of dough. Su böreği, made with boiled yufka layers, cheese and parsley, is the most frequently eaten. Çiğ börek (also known as Tatar böreği) is fried and stuffed with minced meat. Kol böreği is another well-known type of börek that takes its name from its shape, as do fincan (coffee cup), muska (talisman), gül böreği (rose) or sigara böreği (cigarette). Other traditional Turkish böreks include talaş böreği (phyllo dough filled with vegetables and diced meat) and puf böreği. Laz böreği is a sweet type of börek, widespread in the Black Sea Region."
+        },
+        {
+          "doc_id": "wiki__turkish_cuisine__p6",
+          "text": "A traditional Turkish breakfast is rich in variety. A typical serving consists of cheese (such as beyaz peynir, kaşar, and others), butter, olives, eggs, muhammara, tomatoes, cucumbers, jam, honey, kaymak, sucuk (optionally spicy Turkish sausage), pastırma, börek, simit, poğaça, açma, fried dough (pişi), and soups may be eaten as a morning meal in Turkey"
+        },
+        {
+          "doc_id": "wiki__turkish_cuisine__p20",
+          "text": "One of the best-known desserts in Turkish cuisine is baklava. Baklava is made either with pistachios or walnuts. Turkish cuisine has a range of baklava-like desserts which include şöbiyet, bülbül yuvası, sütlü nuriye, and burma."
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_04_20_4_turkey_and_cyprus__p0",
+          "text": "I love this concept of creating a dish that might be shunned by picky children in other forms, but which is surely beloved by all who can see the love and patience poured into delicately assembling each dolma. Popular grains in Turkey include bulgur (cracked wheat, often used as a tasty filler for other dishes), rice and a wide range of leavened and unleavened breads made from wheat flour"
+        },
+        {
+          "doc_id": "wiki__turkish_cuisine__p51",
+          "text": "Pide, which can be made with minced meat (together with onion, chopped tomatoes, parsley and spices), kashar cheese, spinach, white cheese, pieces of meat, braised meat (kavurma), sucuk, pastirma or/and eggs put on rolled-out dough, is one of the most common traditional stone-baked Turkish specialities."
+        }
+      ]
+    },
+    {
+      "query_id": "q_012",
+      "query": "Why did the Romans forbid growing vines in Provence in 120 BC?",
+      "response": "The Romans banned the growth of vines and olive trees in Provence because they wanted to protect the lucrative trade in exporting Italian wines.",
+      "retrieved_context": [
+        {
+          "doc_id": "wiki__provence__p115",
+          "text": "The wines of Provence were probably introduced into Provence around 600 BC by the Greek Phoceans who founded Marseille and Nice. After the Roman occupation, in 120 BC the Roman Senate forbade the growing of vines and olives in Provence, to protect the profitable trade in exporting Italian wines, but in the late Roman empire retired soldiers from Roman Legions settled in Provence and were allowed to grow grapes."
+        },
+        {
+          "doc_id": "wiki__provence__p116",
+          "text": "The Romans complained about the competition from and poor quality of the wines of Provence. In the 1st century AD the Roman poet Martial condemned the wines of Marseille as \"terrible poisons, and never sold at a good price.\""
+        },
+        {
+          "doc_id": "wiki__provence__p19",
+          "text": "In 8 BC the Emperor Augustus built a triumphal monument at La Turbie to commemorate the pacification of the region, and he began to Romanize Provence politically and culturally. Roman engineers and architects built monuments, theatres, baths, villas, fora, arenas and aqueducts, many of which still exist. (See Architecture of Provence.) Roman towns were built at Cavaillon; Orange; Arles; Fréjus; Glanum (outside Saint-Rémy-de-Provence); Carpentras; Vaison-la-Romaine; Nîmes; Vernègues; Saint-Chamas and Cimiez (above Nice). The Roman province, which was called Gallia Narbonensis, for its capital, Narbo (modern Narbonne), extended from Italy to Spain, from the Alps to the Pyrenees."
+        },
+        {
+          "doc_id": "wiki__provence__p119",
+          "text": "The wines of Provence are grown under demanding conditions; hot weather and abundant sunshine (Toulon, near Bandol, has the most sunshine of any city in France) which ripens the grapes quickly; little rain, and the mistral."
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p18",
+          "text": "The grape was domesticated between 7,000 and 4,000 BC between the Black Sea and Persia; archaeological evidence shows that wine was being made there by 6,000 BC, reaching Greece and Crete in the fifth millennium BC and Spain by the last millennium BC. Winemaking started in Italy in the ninth century BC, and in France around 600 BC."
+        }
+      ]
+    },
+    {
+      "query_id": "q_013",
+      "query": "Why can olive oil replace saturated fats?",
+      "response": "Olive oil replaces saturated fats because it contains monounsaturated fats, which have been shown to have health benefits.",
+      "retrieved_context": [
+        {
+          "doc_id": "wiki__mediterranean_diet__p4",
+          "text": "The European Food Safety Authority Panel on Dietetic Products, Nutrition and Allergies approved health claims on olive oil, for protection by its polyphenols against oxidation of blood lipids and for the contribution to the maintenance of normal blood LDL-cholesterol levels by replacing saturated fats in the diet with oleic acid (Commission Regulation (EU) 432/2012 of 16 May 2012)"
+        },
+        {
+          "doc_id": "wiki__mediterranean_diet__p4",
+          "text": "The Mediterranean diet is low in saturated fat with high amounts of monounsaturated fat and dietary fiber. One possible factor is the potential health effects of olive oil in the Mediterranean diet. Olive oil contains monounsaturated fats, most notably oleic acid, which is under clinical research for its potential health benefits"
+        },
+        {
+          "doc_id": "wiki__mediterranean_diet__p4",
+          "text": "A 2014 meta-analysis concluded that an elevated consumption of olive oil is associated with reduced risk of all-cause mortality, cardiovascular events and stroke, while monounsaturated fatty acids of mixed animal and plant origin showed no significant effects."
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_10_05_33_greece__p0",
+          "text": "The quality of olive oil is often advertised as percent of acidity, and luckily I was recently awarded a PhD in science, so I am qualified to vaguely attempt to explain what that actually means. In a fresh olive, fatty acids are bound up into threes and only come into contact with enzymes that degrade them (releasing free fatty acids) when the olive is crushed or starts breaking down/fermenting"
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_10_05_33_greece__p0",
+          "text": "These free fatty acids make up the acidity measure, so good quality olive oil is made with fresh olives, handled carefully, so that fatty acids are only allowed to be released for a short period during the crushing process to make oil, and are therefore at very low levels. Internationally, extra virgin olive oil has an upper limit of 0.8% acidity, but that is actually quite high compared to what’s used in Greece"
+        }
+      ]
+    },
+    {
+      "query_id": "q_014",
+      "query": "What causes a soufflé to rise during baking?",
+      "response": "The raising of soufflés occurs due to the whipping of egg whites into stiff peaks and then delicate folding through a base.",
+      "retrieved_context": [
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_04_14_1_france_and_monaco__p2",
+          "text": "The tricky part of soufflé can be found in the root of its name, which is the past participle of “souffler” which means “to inflate”. This inflation is caused by egg whites that are whipped into stiff peaks and then delicately folded through a base, which can be a sweet or savoury puree of any flavours desired (chocolate or cheese are just some of the most famous)"
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_04_14_1_france_and_monaco__p2",
+          "text": "I think my oven let me down slightly, because only those in the back rose fully, but I was ultimately happy with the texture and result, although I wasn’t quite quick enough with the camera to capture the full extent of the rise – the recipes are serious when they say serve immediately"
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_04_14_1_france_and_monaco__p2",
+          "text": "Whenever somebody is set an impossible cooking challenge in movies, it’s always a soufflé, right? Well, challenge accepted, hesitantly. The first records of the dish are from the 1700s, likely in Paris, although it is now popular all over France (justifying my slightly dodgy inclusion of it as a “southern” French dish…)"
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_04_14_1_france_and_monaco__p2",
+          "text": "This mixture is poured into ramekins and baked in a hot oven (without opening the door!) until they have risen in spectacular pillows of deliciousness. I followed the instructions to the letter (a rarity for me), hoping to get the fabled “rise”, making a thick base out of milk, flour and butter, then allowing it to cool before folding in the creamy goat cheese, herbs and egg yolks, finally carefully combining the beaten egg whites"
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2018_02_18_47_centralitaly__p0",
+          "text": "Truffles fell out of fashion during the Middle Ages, and then had something of a renaissance in, well, the Renaissance"
+        }
+      ]
+    },
+    {
+      "query_id": "q_015",
+      "query": "Which herb is used extensively in Sicilian cooking compared to the rest of Italy?",
+      "response": "garlic and onions are widely used, as are herbs; bay leaf, parsley, oregano, thyme, mint, marjoram, rosemary and coriander are the most prevalent.",
+      "retrieved_context": [
+        {
+          "doc_id": "wiki__italian_cuisine__p111",
+          "text": "Much of the island's cuisine encourages the use of fresh vegetables such as aubergine, peppers, and tomatoes, as well as fish such as tuna, seabream, sea bass, swordfish, and cuttlefish. In Trapani, in the extreme western corner of the island, North African influences are clear in the use of various couscous based dishes, usually combined with fish. Mint is used extensively in cooking unlike the rest of Italy."
+        },
+        {
+          "doc_id": "wiki__italian_cuisine__p36",
+          "text": "Traditional central Italian cuisine uses ingredients such as tomatoes, all types of meat, fish, and pecorino. In Tuscany, pasta (especially pappardelle) is traditionally served with meat sauce (including game meat). In southern Italy, tomatoes (fresh or cooked into tomato sauce), peppers, olives and olive oil, garlic, artichokes, oranges, ricotta cheese, aubergines, courgette, certain types of fish (anchovies, sardines, and tuna), and capers are important components to the local cuisine."
+        },
+        {
+          "doc_id": "wiki__italian_cuisine__p35",
+          "text": "In northern Italy there are many types of stuffed pasta, although polenta and risotto are equally popular if not more so. Ligurian ingredients include several types of fish and seafood dishes. Basil (found in pesto), nuts, and olive oil are very common. In Emilia-Romagna, common ingredients include prosciutto (Italian ham), cotechino, different sorts of salami, truffles, grana, Parmigiano Reggiano, tomatoes (Bolognese sauce or ragù), and balsamic vinegar (Italian: aceto balsamico)."
+        },
+        {
+          "doc_id": "wiki__italian_cuisine__p34",
+          "text": "In northern Italy, fish (such as cod, or baccalà), potatoes, rice, corn (maize), sausages, pork, and different types of cheese are the most common ingredients. Pasta dishes with tomato are common throughout Italy. Italians use ingredients that are fresh and subtly seasoned and spiced."
+        },
+        {
+          "doc_id": "wiki__portuguese_cuisine__p3",
+          "text": "Garlic and onions are widely used, as are herbs; bay leaf, parsley, oregano, thyme, mint, marjoram, rosemary and coriander are the most prevalent."
+        }
+      ]
+    },
+    {
+      "query_id": "q_016",
+      "query": "What tree is used to define the Mediterranean region?",
+      "response": "olive tree",
+      "retrieved_context": [
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p10",
+          "text": "Mediterranean cuisine is defined by the presence of fundamental elements which are said to play a more important role than others, reflecting a community of beliefs and practices which transcend religions, languages and even societies. The olive tree, the emblematic tree on more than one account, traces the bounds of a frontier of landscapes and lives on either side of which the Mediterranean begins or ends. Above Montelimar, nicknamed \"Gates of Provence\", is the limit of the olive."
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p8",
+          "text": "She defines this region as coextensive with the range of the olive tree: \"those blessed lands of sun and sea and olive trees.\" The olive's natural distribution is limited by frost and by availability of water. It is therefore constrained to a more or less narrow zone around the Mediterranean Sea, except in the Maghreb and in the Iberian Peninsula, where it is distributed more widely, and on the islands of the Mediterranean, where it is widespread."
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p11",
+          "text": "The belief in a common core, emerging from a claim to authority over that kernel of \"Mediterranean-ness\", is what underlies writing describing the culinary Mediterranean, yet it seems that only from far away does a unified Mediterranean exist"
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p1",
+          "text": "Many writers define the three core elements of the cuisine as the olive, wheat, and the grape, yielding olive oil, bread and pasta, and wine; other writers deny that the widely varied foods of the Mediterranean basin constitute a cuisine at all. A common definition of the geographical area covered, proposed by David, follows the distribution of the olive tree."
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p30",
+          "text": "In mountainous areas of the Mediterranean, wheat was often replaced by chestnuts as a staple food, earning the chestnut tree the name \"bread tree\"."
+        }
+      ]
+    },
+    {
+      "query_id": "q_017",
+      "query": "What type of dish is dolma?",
+      "response": "dumplings",
+      "retrieved_context": [
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_04_20_4_turkey_and_cyprus__p0",
+          "text": "I love this concept of creating a dish that might be shunned by picky children in other forms, but which is surely beloved by all who can see the love and patience poured into delicately assembling each dolma. Popular grains in Turkey include bulgur (cracked wheat, often used as a tasty filler for other dishes), rice and a wide range of leavened and unleavened breads made from wheat flour"
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_10_05_33_greece__p3",
+          "text": "This is a great mixture of sweet and savoury, and very easy to make. Next up on my platter I made dolmadaki, which comes from a family of foods common throughout the Mediterranean, the Balkans and the Middle East called dolma, describing stuffed vegetables of many varieties. I’ve always loved stuffed vine leaves and associate them strongly with sunny outdoor lunches shaded by vines in Greece"
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_04_20_4_turkey_and_cyprus__p0",
+          "text": "There are hundreds of wonderful Turkish recipes that “upgrade” the humble vegetable into superstar status, for instance by stuffing them with spiced mixtures of grain or other vegetables before cooking, a category all of its own called “dolma”"
+        },
+        {
+          "doc_id": "wiki__turkish_cuisine__p55",
+          "text": "Dolma is a verbal noun of the Turkish verb dolmak'to be stuffed (or filled)', and means simply'stuffed thing'. Vegetables like bell peppers, tomatoes, zucchini, and eggplants are commonly filled with seasoned rice, herbs, pine nuts, and currants or minced meat, as seen in biber dolması, while grape (yaprak sarma) or cabbage leaves (lahana sarma) are wrapped around similar fillings"
+        },
+        {
+          "doc_id": "wiki__turkish_cuisine__p54",
+          "text": "Stuffed dishes, known as dolma and sarma, are a fundamental part of Turkish cuisine, offering a rich variety of flavors and textures."
+        }
+      ]
+    },
+    {
+      "query_id": "q_018",
+      "query": "What are some common ingredients in Greek desserts?",
+      "response": "Greek desserts typically include nuts, honey, fruits, sesame, and filo pastries.",
+      "retrieved_context": [
+        {
+          "doc_id": "wiki__greek_cuisine__p0",
+          "text": "Bread made of wheat is ubiquitous; other grains, notably barley, are also used, especially for paximathia. Common dessert ingredients include nuts, honey, fruits, sesame, and filo pastries. It continues traditions from Ancient Greek and Byzantine cuisine, while incorporating Turkish, Middle Eastern, Balkan, and Italian influences."
+        },
+        {
+          "doc_id": "wiki__greek_cuisine__p0",
+          "text": "Greek cuisine is the cuisine of Greece and the Greek diaspora. In common with many other cuisines of the Mediterranean, it is founded on the triad of wheat, olive oil, and wine. It uses vegetables, olive oil, grains, fish, and meat, including pork, poultry, veal and beef, lamb, rabbit, and goat. Other important ingredients include pasta (such as hilopites), cheeses, herbs, lemon juice, olives and olive oil, and yogurt"
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p40",
+          "text": "Greek cookery makes wide use of vegetables, olive oil, grains, fish, wine, and meat (white and red, including lamb, poultry, rabbit, and pork). Other important ingredients include olives, cheese, aubergine, courgette, lemon juice, vegetables, herbs, bread, and yoghurt"
+        },
+        {
+          "doc_id": "wiki__turkish_cuisine__p26",
+          "text": "Other common desserts include revani (with semolina and starch), şekerpare, dilber dudağı, vezir parmağı, hanım göbeği, kemalpaşa, tulumba, zerde, lokma."
+        },
+        {
+          "doc_id": "wiki__provence__p113",
+          "text": "The basic ingredients are olives and olive oil, garlic, sardines, rockfish, sea urchins and octopus, lamb and goat, chickpeas, and local fruits, such as grapes, peaches, apricots, strawberries, cherries, and the famous melons of Cavaillon."
+        }
+      ]
+    },
+    {
+      "query_id": "q_019",
+      "query": "What happens to Asturian cider when it is poured using the traditional escanciada technique?",
+      "response": "Asterican cider breaks when it is poured using the traditional escanciada technique.",
+      "retrieved_context": [
+        {
+          "doc_id": "wiki__spanish_cuisine__p35",
+          "text": "Asturian cider, Sidra de Asturias [ es ], made of a special type of apple, is traditionally poured escanciada from a certain height, usually over the head of the waiter/server. When the cider falls into the glass from above, the drink \"breaks\", becoming aerated and bubbly. It is consumed immediately after being served, in consecutive, tiny shots."
+        },
+        {
+          "doc_id": "wiki__spanish_cuisine__p34",
+          "text": "Asturian cheeses are very popular in the rest of Spain. Among them, the most representative is Cabrales cheese, a pungent, blue cheese developed in the regions near the Picos de Europa. Other popular cheese types are gamonéu afuega'l pitu, and queso de Pría [ es ]. These are usually enjoyed with the local cider, a low-alcohol drink made of Asturian apples with a distinctive sourness."
+        },
+        {
+          "doc_id": "wiki__spanish_cuisine__p62",
+          "text": "The region is also known for its vino de pitarra tradition (homemade wine made in small earthenware vessels)."
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2018_04_29_53_spain__p4",
+          "text": "I can see the similarities between the dishes, and therefore see logic in the theory that fabada asturiana originated from the French travelling to Spain along the Camino de Santiago (Way of Saint James) during the Middle Ages"
+        },
+        {
+          "doc_id": "wikibooks__cookbook_arroz_negro_valencian_squid_rice__p4",
+          "text": "The below recipe is based on the one by Juanry Seguí, a prominent Valencian chef."
+        }
+      ]
+    },
+    {
+      "query_id": "q_020",
+      "query": "How does the pizza Quattro Stagioni represent the four seasons through its toppings?",
+      "response": "The pizza Quattro Stagioni represents the four seasons through its toppings by showcasing tomatoes, basil, mushrooms, and truffles for spring, autumn, winter, and summer respectively.",
+      "retrieved_context": [
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_11_02_37_southern_italy__p2",
+          "text": "However, for the picture I chose pizza quattro stagioni (four seasons), as I’m a sucker for seasonal symbolism and, of course, squeezing many ingredients and concepts onto a small piece of real estate. The four seasons pizza showcases some of the most typical ingredients synonymous with each of the seasons, with tomato and basil representing summer, mushrooms and truffles for autumn, ham and olives for winter and artichokes for summer"
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_11_02_37_southern_italy__p2",
+          "text": "I made many varieties of pizza not pictured, including many classics: pizza tartufo e funghi (truffle, mushroom, parmesan on a white base); pizza alla Romana (anchovies, capers and mozzarella on a tomato base); pizza primavera (prosciutto, mozzarella and rocket on a tomato base); pizza margherita (basil, tomato and mozzarella on a tomato base); and pizza ai quattro formaggi (four cheeses – mozzarella, parmesan, gorgonzola and gruyere on a white"
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_11_02_37_southern_italy__p2",
+          "text": "Apart from the exception of the four seasons pizza, I try to limit myself to a maximum of three toppings per base, excluding one type of cheese and sauce, and have found that to be a good way of sticking to the maxim of culinary minimalism."
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_11_02_37_southern_italy__p3",
+          "text": "Caprese salad beautifully displays all the colours of the Italian flag, and is famous for its delicious simplicity of fresh mozzarella, tomato and basil, drizzled with olive oil. Orange and fennel salad is also from Sicily, and is one of my favourite combinations of flavours"
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_11_02_37_southern_italy__p2",
+          "text": "To top the pizzas, there are two main categories of sauce: bianca (white) where a drizzle of oil is put on the bare dough before the other toppings, and rossa (red) which is the tomato passata base that you are likely more familiar with"
+        }
+      ]
+    },
+    {
+      "query_id": "q_021",
+      "query": "How does the Healthy Mediterranean-Style Eating Pattern differ from the Healthy U.S.-Style Eating Pattern?",
+      "response": "The Healthy Mediterranean-Style Eating Pattern differs from the Healthy U.S.-Style Eating Pattern by recommending more fruits and seafood and less dairy.",
+      "retrieved_context": [
+        {
+          "doc_id": "wiki__mediterranean_diet__p5",
+          "text": "The United States 2015–2020 national guidelines devised a \"Healthy Mediterranean-Style Eating Pattern\" from the Mediterranean diet patterns and its positive health outcomes. It was designed from the \"Healthy U.S.-Style Eating Pattern\", but recommends more fruits and seafood, and less dairy. A 2020 review of research on the Mediterranean diet indicated that it may optimize cardiovascular health."
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p55",
+          "text": "The Mediterranean diet, popularised in the 1970s, is inspired by the cuisine of Greece, especially Crete, and Southern Italy in the early 1960s. The American Diabetes Association writes about \"Mediterranean-Style Eating\", mentioning \"the traditional Mediterranean lifestyle... of... eating healthfully... together among family and friends\", and asserting that \"Mediterranean cuisine is plant-based\", citing the ingredients \"whole grains, fruits, vegetables, herbs and spices, beans, nuts, seeds, and olive oil\", and stating that most foods \"in a Mediterranean diet come from plants\"."
+        },
+        {
+          "doc_id": "wiki__mediterranean_diet__p0",
+          "text": "The Mediterranean diet is a concept first proposed in 1975 by American biologist Ancel Keys and chemist Margaret Keys. It is inspired by the eating habits and traditional foods of Greece, Italy, the Mediterranean coasts of France and Spain, as well as the Levant as observed in the late 1950s to early 1960s. The diet is distinct from Mediterranean cuisine, which encompasses the diverse culinary traditions of Mediterranean countries, and from the Atlantic diet of northwestern Spain and Portugal, albeit with some shared characteristics. The Mediterranean diet is the most well-known and researched dietary pattern in the world."
+        },
+        {
+          "doc_id": "wiki__mediterranean_diet__p2",
+          "text": "The Mediterranean diet is associated with a reduction in all-cause mortality in observational studies. A 2017 review provided evidence that the Mediterranean diet lowers the risk of heart disease and early death; it may also help with weight loss in obese people. The Mediterranean diet is one of three healthy diets recommended in the 2015–2020 Dietary Guidelines for Americans, along with the DASH diet and vegetarian diet. It is also recognized by the World Health Organization as a healthy eating pattern."
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p25",
+          "text": "The idea of the \"standard Mediterranean\"... is a modern construction of food writers and publicists in Europe and North America earnestly preaching what is now thought to be a healthy diet to their audiences by invoking a stereotype of the healthy other on the shores of the Mediterranean. Their colleagues in Mediterranean countries are only too willing to perpetuate this myth. The fact of the matter is that the Mediterranean contains varied cultures."
+        }
+      ]
+    },
+    {
+      "query_id": "q_022",
+      "query": "What is the key difference between dolma and sarma in Turkish cuisine?",
+      "response": "The key difference between dolma and sarma in Turkish cuisine is that dolma is a stuffed dish while sarma is a non-stuffed dish.",
+      "retrieved_context": [
+        {
+          "doc_id": "wiki__turkish_cuisine__p56",
+          "text": "Sarma is also a verbal noun of the Turkish verb sarmak'to wrap', and means simply'wrapped/wrapping'. Dolma and sarma have a special place in Turkish cuisine. They can be eaten either as a meze or a main dish. They can be cooked either as a vegetable dish or meat dish. If a meat mixture is put in, they are usually served hot with yogurt and spices such as oregano and red pepper powder with oil"
+        },
+        {
+          "doc_id": "wiki__turkish_cuisine__p54",
+          "text": "Stuffed dishes, known as dolma and sarma, are a fundamental part of Turkish cuisine, offering a rich variety of flavors and textures."
+        },
+        {
+          "doc_id": "wiki__turkish_cuisine__p56",
+          "text": "If the mixture is vegan, only olive oil, rice or bulgur are used, with some nuts and raisins inside, especially blackcurrant. Zeytinyağlı yaprak sarması (stuffed leaves with olive oil) is the sarma made with vine leaves stuffed with a rice-spice mixture and cooked with olive oil. This type of dolma does not contain meat, is served cold and also referred to as sarma, which means \"wrapping\" in Turkish"
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_04_20_4_turkey_and_cyprus__p0",
+          "text": "There are hundreds of wonderful Turkish recipes that “upgrade” the humble vegetable into superstar status, for instance by stuffing them with spiced mixtures of grain or other vegetables before cooking, a category all of its own called “dolma”"
+        },
+        {
+          "doc_id": "wiki__turkish_cuisine__p55",
+          "text": "Melon dolma along with quince or apple dolma was one of the palace's specialties (raw melon stuffed with minced meat, onion, rice, almonds, cooked in an oven). In contemporary Turkey, a wide variety of dolma and sarma is prepared. Although it is not possible to give an exhaustive list of recipes; courgette (\" kabak \"), aubergine (\" patlıcan \"), tomato (\" domates \"), pumpkin (\" balkabağı \") and chard (\" pazı \"), constitute some"
+        }
+      ]
+    },
+    {
+      "query_id": "q_023",
+      "query": "What three conditions indicate that a paella is done?",
+      "response": "The three conditions that indicate that a paella is done are:\n\n1. The rice should be slightly firm to the bite.\n2. The rice is a little moist but not soupy.\n3. There is a bit of toasted rice on the bottom of the paellera.",
+      "retrieved_context": [
+        {
+          "doc_id": "wikibooks__cookbook_arroz_negro_valencian_squid_rice__p10",
+          "text": "Make sure the rice doesn't get too soft. Check the rice again every 10 minutes and reduce the heat slightly after each taste. Your goal is to wind up with rice that has a slightly underdone center. The time it takes to reach this point can vary from 30 minutes to an hour depending on your cooking gear. - Your paella is done once you've accomplished the following three things: 1) The rice should be slightly firm to the bite"
+        },
+        {
+          "doc_id": "wikibooks__cookbook_paella_roja__p6",
+          "text": "Don't mix the ingredients during this final phase. Your paella is done once the rice is just slightly firm to the bite (al dente), the paella is a little moist but not soupy, and there is a bit of toasted rice on the bottom of the paellera. The toasted rice is considered a delicacy throughout the Spanish-speaking world. - Remove the paellaera from the heat and cover it with a clean, white towel"
+        },
+        {
+          "doc_id": "wikibooks__cookbook_valencian_inspired_paella__p7",
+          "text": "- Taste the rice in various places about once every four to five minutes. You'll know it's done when it's soft but not pasty. - Replace the bell pepper strips and arrange them in a circular pattern. - Remove the paella from the heat and place a white dish towel over the pan. - Wait 5–10 minutes to allow the rice to absorb the remaining liquid. - Serve hot. You should notice toasted (but not burned) rice at the bottom of the pan."
+        },
+        {
+          "doc_id": "wikibooks__cookbook_paella_de_marisco__p6",
+          "text": "Your goal is to wind up with rice that has a slightly underdone center. The time it takes to reach this point can vary from 30 minutes to an hour depending on your cooking gear. - Your paella is done once the rice is slightly firm to the bite (al dente), the paella is a little moist but not soupy, and there is a bit of toasted rice on the bottom of the paellera. This is considered a delicacy throughout the Spanish-speaking world"
+        },
+        {
+          "doc_id": "wikibooks__cookbook_paella_valenciana__p4",
+          "text": "You'll know it's done when it's slightly firm to the bite. Italians use a similar approach when cooking pasta, which they refer to as al dente. - At this point, there should be some toasted rice sticking to the bottom of the pan. This is a delicacy in Valencia called socarrat. If no socarrat has developed, increase the flame to high and listen for the crackling sound of rice toasting at the bottom"
+        }
+      ]
+    },
+    {
+      "query_id": "q_024",
+      "query": "Why are indentations made in focaccia dough during preparation in Ligurian cuisine?",
+      "response": "Indentations are made in focaccia dough during preparation in Ligurian cuisine because they prevent huge bubbles forming under the dough and provide wells for the oil and flavorings to fall into, keeping the bread moist.",
+      "retrieved_context": [
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2018_10_14_69_northern_italy__p1",
+          "text": "At the end of this process, when the dough has risen for its final time in its baking tin, it is traditional to poke holes into it with your finger, which prevents huge bubbles forming under the dough and provides wells for the oil and flavourings to fall into, keeping the bread moist. Similar breads were made in Ancient Rome, such as panis focacius, meaning “hearth bread”, with the “hearth” surviving as the root of the current word focaccia"
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2018_10_14_69_northern_italy__p1",
+          "text": "The major task I undertook for this mix of antipasti was making a focaccia, an Italian bread typical of Liguria, which can be flavoured with ingredients such as olives, cheese, rosemary or caramelised red onions. I chose the latter two to flavour my focaccia, and made the dough by combining bread flour, oil, water, salt and yeast, then kneading infinitely and waiting patiently for several iterations of rising, punching down and rising"
+        },
+        {
+          "doc_id": "wiki__italian_cuisine__p91",
+          "text": "Liguria is known for herbs and vegetables (as well as seafood) in its cuisine. Savory pies are popular, mixing greens and artichokes along with cheeses, milk curds, and eggs. Onions and olive oil are used. Due to a lack of land suitable for wheat, the Ligurians use chickpeas in farinata and polenta-like panissa. The former is served plain or topped with onions, artichokes, sausages, cheese or young anchovies. Farinata is typically cooked in a wood-fired oven, similar to southern pizzas. Fresh fish also features heavily in Ligurian cuisine. Baccalà (salted cod) is a prominent source of protein in coastal regions; it is traditionally prepared in a soup."
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_11_02_37_southern_italy__p4",
+          "text": "the breadcrumbs in this case provided a wonderful vehicle for salt, fat and chilli evenly coating the pasta and fresh greens with a satisfying crunch."
+        },
+        {
+          "doc_id": "wiki__turkish_cuisine__p45",
+          "text": "The use of layered dough is rooted in the nomadic character of early Central Asian Turks. The combination of domed metal sač and oklava (the Turkish rod-style rolling pin) enabled the invention of the layered dough style used in börek (especially in su böreği, or'water pastry', a salty baklava-like pastry with cheese filling), güllaç and baklava."
+        }
+      ]
+    },
+    {
+      "query_id": "q_025",
+      "query": "What do early Egyptian cheese remains tell us about how cheese was made?",
+      "response": "Cheese was likely made with acid or a combination of acid and heat.",
+      "retrieved_context": [
+        {
+          "doc_id": "wiki__egyptian_cuisine__p33",
+          "text": "Cheese is thought to have originated in the Middle East. Two alabaster jars found at Saqqara, dating from the First Dynasty of Egypt, contained cheese. These were placed in the tomb about 3,000 BC. They were likely fresh cheeses coagulated with acid or a combination of acid and heat. An earlier tomb, that of King Hor-Aha, may also have contained cheese which, based on the hieroglyphic inscriptions on the two jars, appears to be from Upper and Lower Egypt. The pots are similar to those used today when preparing mish."
+        },
+        {
+          "doc_id": "wiki__egyptian_cuisine__p0",
+          "text": "Egyptian cuisine makes heavy use of poultry, legumes, vegetables and fruit from Egypt's rich Nile Valley and Delta. Examples of Egyptian dishes include rice-stuffed vegetables and grape leaves, hummus, falafel, shawarma, kebab and kofta. Others include ful medames, mashed fava beans; koshary, lentils and pasta; and molokhiyya, jute leaf stew. A local type of pita known as eish baladi is a staple of Egyptian cuisine, and cheesemaking in Egypt dates back to the First Dynasty of Egypt, with Domiati being the most popular type of cheese consumed today."
+        },
+        {
+          "doc_id": "wiki__egyptian_cuisine__p40",
+          "text": "Bread-making in Egypt dates back nearly 5,800 years, with early evidence of bread made from emmer wheat, a low-gluten grain that was manually ground and leavened using natural yeast and lactic acid bacteria. Archaeological findings reveal various bread types, including those made with barley, chickpea flour, and breads incorporating fig paste, coriander seeds, and nabq fruits. Wall inscriptions and tomb scenes from the Old Kingdom depict detailed bread production processes, including grinding wheat, mixing dough, and baking in mudbrick ovens."
+        },
+        {
+          "doc_id": "wiki__egyptian_cuisine__p6",
+          "text": "Ancient Egyptians also relied on a variety of dairy products, with cheese and butter playing a role in their diet. Oils for cooking and flavoring were derived from plants such as lettuce, radish, sesame, and safflower, while animal fat was commonly used in food preparation. Vegetables, including garlic, leeks, cucumbers, and various legumes, were widely cultivated, while fruits such as grapes and doum palm nuts were eaten fresh or dried. Archaeological evidence suggests that Egyptians practiced early forms of food preservation, such as drying fruits and salting meats and fish to extend their shelf life."
+        },
+        {
+          "doc_id": "wiki__egyptian_cuisine__p20",
+          "text": "Despite this divide, many core ingredients, fava beans, molokheya, and preserved dairy, remained central to Egyptian cuisine."
+        }
+      ]
+    },
+    {
+      "query_id": "q_026",
+      "query": "How does arroz negro reflect Mediterranean seafood cuisine?",
+      "response": "arroz negro reflects Mediterranean seafood cuisine by combining cuttlefish (or squid) with rice, which is similar to seafood paella. It is named after the dark color caused by ink used in cooking. Seafood includes sea bream and squid, often eaten in stews, stuffed, or fried. The land borders the Mediterranean sea have distinct regional cuisines, each with their own national and provincial variations.",
+      "retrieved_context": [
+        {
+          "doc_id": "wikibooks__cookbook_arroz_negro_valencian_squid_rice__p0",
+          "text": "Arroz negro or arròs negre (\"black rice\" in Spanish and Catalan respectively) is a Valencian dish of cuttlefish (or squid) and rice which is very similar to seafood paella. In fact, some call it paella negra (black paella in Spanish)."
+        },
+        {
+          "doc_id": "wikibooks__cookbook_arroz_negro_valencian_squid_rice__p1",
+          "text": "Arroz negro should not be confused with black rice, the collective name for several types of rice that have a naturally dark color. This dish's dark color comes from the ink which also enhances its seafood flavor."
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p32",
+          "text": "Seafood including sea bream and squid is eaten, often in stews, stuffed, or fried, in Spanish, French, and Italian dishes. Despite this, however, the lands bordering the Mediterranean sea have distinct regional cuisines, from the Maghrebi, Levant, and Ottoman to the Italian, French, and Spanish. Each of those, in turn, has national and provincial variations."
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2018_04_29_53_spain__p0",
+          "text": "I feel like this curious interaction did represent Spanish cuisine in a strange way – it is a country proud (sometimes to the point of inflexibility) of its traditional food, although with a chequered history of invasions, introductions and influences that have shared and muddied the true origins of foods"
+        },
+        {
+          "doc_id": "wikibooks__cookbook_arroz_negro_valencian_squid_rice__p4",
+          "text": "The below recipe is based on the one by Juanry Seguí, a prominent Valencian chef."
+        }
+      ]
+    },
+    {
+      "query_id": "q_027",
+      "query": "What characterizes the typical ingredients used in Sicilian cooking?",
+      "response": "I don't know based on the provided context.",
+      "retrieved_context": [
+        {
+          "doc_id": "wiki__italian_cuisine__p110",
+          "text": "The Normans and Hohenstaufens had a fondness for meat dishes. The Spanish introduced items from the New World including chocolate, maize, turkey, and tomatoes. Sicilian cuisine not only reflects a mix of historical influences, but also embodies traditions that have been preserved through the use of local ingredients and age-old techniques, particularly in dishes such as arancini and cassata, which showcase the island's unique culinary heritage."
+        },
+        {
+          "doc_id": "wiki__italian_cuisine__p34",
+          "text": "In northern Italy, fish (such as cod, or baccalà), potatoes, rice, corn (maize), sausages, pork, and different types of cheese are the most common ingredients. Pasta dishes with tomato are common throughout Italy. Italians use ingredients that are fresh and subtly seasoned and spiced."
+        },
+        {
+          "doc_id": "wiki__italian_cuisine__p166",
+          "text": "Much of Italian-American cuisine is based on Italian cuisine, Americanized to reflect ingredients and conditions found in the United States. Italian Americans often identify foods with their regional heritage. Southern Italy staples include dry pasta, tomato sauce, and olive oil, whereas northern Italian staples include foods such as risotto, white sauce, and polenta."
+        },
+        {
+          "doc_id": "wiki__italian_cuisine__p36",
+          "text": "Traditional central Italian cuisine uses ingredients such as tomatoes, all types of meat, fish, and pecorino. In Tuscany, pasta (especially pappardelle) is traditionally served with meat sauce (including game meat). In southern Italy, tomatoes (fresh or cooked into tomato sauce), peppers, olives and olive oil, garlic, artichokes, oranges, ricotta cheese, aubergines, courgette, certain types of fish (anchovies, sardines, and tuna), and capers are important components to the local cuisine."
+        },
+        {
+          "doc_id": "wiki__italian_cuisine__p33",
+          "text": "Italian cuisine has a great variety of different ingredients which are commonly used, ranging from fruits and vegetables to grains to cheeses, meats, and fish."
+        }
+      ]
+    },
+    {
+      "query_id": "q_028",
+      "query": "What is the philosophy behind cucina povera in Tuscan cuisine?",
+      "response": "Simplicity is central to the this cuisine.",
+      "retrieved_context": [
+        {
+          "doc_id": "wiki__italian_cuisine__p118",
+          "text": "Some of Tuscany's classic dishes are rooted in cucina povera (Italian for'cuisine of the poor'), a cuisine that emphasises seasonal ingredients and straightforward flavours over complex sauces and spices. One example is ribollita, a notable soup whose name literally means'reboiled'. Ribollita was originally made by reheating (i.e. reboiling) the leftover minestrone or vegetable soup from the previous day. There are many variations, but ingredients often include leftover bread, cannellini beans, and inexpensive vegetables such as carrot, cabbage, beans, silverbeet, cavolo nero, onion, and olive oil."
+        },
+        {
+          "doc_id": "wiki__italian_cuisine__p117",
+          "text": "Tuscan cuisine is celebrated for its simplicity and focus on fresh, high-quality ingredients such as olive oil, legumes, and meats. Simplicity is central to the this cuisine."
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2018_02_18_47_centralitaly__p2",
+          "text": "Bean soups had a foundational role in the Roman empire, before the influx of products and influences that increased the consumption of meat and introduced bread to the people. Bean soups such as ribollita and minestrone are often classified as “cucina povera”, literally “poor kitchen”, which describes dishes that have roots in the rustic cuisine of the poor masses"
+        },
+        {
+          "doc_id": "wikibooks__cookbook_arroz_negro_valencian_squid_rice__p4",
+          "text": "The below recipe is based on the one by Juanry Seguí, a prominent Valencian chef."
+        },
+        {
+          "doc_id": "wiki__spanish_cuisine__p0",
+          "text": "Spanish cuisine (Spanish: cocina española) consists of the traditions and practices of Spanish cooking. It features considerable regional diversity, with significant differences among the traditions of each of Spain's regional cuisines."
+        }
+      ]
+    },
+    {
+      "query_id": "q_029",
+      "query": "Why is Mediterranean cuisine considered culturally unified?",
+      "response": "The idea of a Mediterranean cuisine being culturally unified stems from the shared history and the perception of a single culture that emerged from a claim to authority over the \"Mediterranean-ness.\"",
+      "retrieved_context": [
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p11",
+          "text": "The very idea of a Mediterranean ensemble—be it onions and olive oil and tomatoes or some other combination entirely—presupposes not only a shared history but a unified history, an imagined moment in which the Mediterranean presented a single culture that over time has, like a language, split and branched and flowered into the wild variety of contemporary cuisine."
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p11",
+          "text": "The belief in a common core, emerging from a claim to authority over that kernel of \"Mediterranean-ness\", is what underlies writing describing the culinary Mediterranean, yet it seems that only from far away does a unified Mediterranean exist"
+        },
+        {
+          "doc_id": "wiki__mediterranean_diet__p3",
+          "text": "Mediterranean cuisine and its associated traditions and practices were recognized as an Intangible Cultural Heritage of Humanity by UNESCO in 2010 under the name \"Mediterranean Diet\". [ a ] The Mediterranean diet is sometimes broadened to include particular lifestyle habits, social behaviors, and cultural values closely associated with certain Mediterranean countries, such as simple but varied cooking methods, communal meals, post-lunch naps, and regular physical activity."
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p25",
+          "text": "The idea of the \"standard Mediterranean\"... is a modern construction of food writers and publicists in Europe and North America earnestly preaching what is now thought to be a healthy diet to their audiences by invoking a stereotype of the healthy other on the shores of the Mediterranean. Their colleagues in Mediterranean countries are only too willing to perpetuate this myth. The fact of the matter is that the Mediterranean contains varied cultures."
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p32",
+          "text": "With common ingredients including the olive, wheat, and grape; a shared climate; and a long period for cultural exchange, it might be expected that a single, pan-Mediterranean cuisine would have developed"
+        }
+      ]
+    },
+    {
+      "query_id": "q_030",
+      "query": "How did Greek cuisine influence other regions?",
+      "response": "Greek cuisine influenced other regions through its cultural impact and dietary preferences.",
+      "retrieved_context": [
+        {
+          "doc_id": "wiki__greek_cuisine__p1",
+          "text": "Greek cuisine is part of the culture of Greece and is recorded in images and texts from ancient times. Its influence spread to ancient Rome and then throughout Europe and beyond."
+        },
+        {
+          "doc_id": "wiki__greek_cuisine__p0",
+          "text": "Greek cuisine is the cuisine of Greece and the Greek diaspora. In common with many other cuisines of the Mediterranean, it is founded on the triad of wheat, olive oil, and wine. It uses vegetables, olive oil, grains, fish, and meat, including pork, poultry, veal and beef, lamb, rabbit, and goat. Other important ingredients include pasta (such as hilopites), cheeses, herbs, lemon juice, olives and olive oil, and yogurt"
+        },
+        {
+          "doc_id": "wiki__greek_cuisine__p2",
+          "text": "Ancient Greek cuisine was characterized by its frugality and was founded on the \"Mediterranean triad\": wheat, olive oil, and wine, with meat being rarely eaten and fish being more common. This trend in Greek diet continued in Cyprus and changed only fairly recently when technological progress has made meat more available. Wine and olive oil have always been a central part of it and the spread of grapes and olive trees in the Mediterranean and further afield is correlated with Greek colonization."
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_10_05_33_greece__p0",
+          "text": "Greece is world-renowned for its delicious food, having a wonderful mixture of Mediterranean and Baltic flavours. One of the major icons of Greek cuisine is olive oil, made from the beautiful silver olive trees that cover the country. I’ve been to Greece a couple of times for work (lucky me!), and spent most of that time in Crete"
+        },
+        {
+          "doc_id": "wiki__greek_cuisine__p19",
+          "text": "Apart from the Greek dishes that can be found all over Greece, there are also many regional dishes."
+        }
+      ]
+    },
+    {
+      "query_id": "q_031",
+      "query": "What factors contributed to the development of Italian cuisine over time?",
+      "response": "The development of Italian cuisine over time was influenced by various factors such as neighboring regions, conquerors, high-profile chefs, political upheaval, and the discovery of the New World.",
+      "retrieved_context": [
+        {
+          "doc_id": "wiki__italian_cuisine__p4",
+          "text": "Through the centuries, neighbouring regions, conquerors, high-profile chefs, political upheaval, and the discovery of the New World have influenced its development. Italian cuisine started to form after the fall of the Roman Empire, when different cities began to separate and form their own traditions. Many different types of bread and pasta were made, and there was a variation in cooking techniques and preparation."
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2018_10_14_69_northern_italy__p0",
+          "text": "One of the most striking things I’ve discovered about Italian cuisine is the huge gap between what we might consider to be authentic Italian cuisine in English-speaking countries and what is actually traditional. The food tends to be much simpler, with fewer ingredients than I would have expected from growing up in Australia, but at the same time it has a much wider diversity of meals than is represented in the typical Italian restaurant"
+        },
+        {
+          "doc_id": "wiki__italian_cuisine__p4",
+          "text": "Italian cuisine has developed over the centuries. Although the country known as Italy did not unite until the 19th century, the cuisine can claim traceable roots as far back as the 4th century BC. Food and culture were very important at that time evident from the cookbook (Apicius) which dates to the first century BC"
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_04_14_1_france_and_monaco__p0",
+          "text": "Early French cuisine was heavily influenced by Italy, with the 17th century often earmarked as the point at which French cuisine diverted significantly away to form its own unique style. Indeed, it’s always struck me that while Italian cooking is renowned for simplicity of recipes and freshness of ingredients, French cooking is renowned for complexity of recipes and perfection of technique"
+        },
+        {
+          "doc_id": "wiki__italian_cuisine__p0",
+          "text": "Italian cuisine is a Mediterranean cuisine consisting of the ingredients, recipes, and cooking techniques developed in Italy since Roman times, and later spread around the world together with waves of Italian diaspora. Significant changes occurred with the colonization of the Americas and the consequent introduction of potatoes, tomatoes, capsicums, and maize, as well as sugar beet —the latter introduced in quantity in the 18th century. Italian cuisine is one of the best-known and most widely appreciated worldwide. In 2025, Italian cuisine was listed as intangible cultural heritage by UNESCO."
+        }
+      ]
+    },
+    {
+      "query_id": "q_032",
+      "query": "What is the key difference between the Mediterranean diet and Mediterranean cuisine?",
+      "response": "The key difference between the Mediterranean diet and Mediterranean cuisine lies in the emphasis placed on whole grains, fruits, vegetables, herbs, spices, beans, nuts, seeds, and olive oil.",
+      "retrieved_context": [
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p4",
+          "text": "The cooking of the area is not to be confused with the Mediterranean diet, made popular because of the apparent health benefits of a diet rich in olive oil, wheat and other grains, fruits, vegetables, and a certain amount of seafood, but low in meat and dairy products. Mediterranean cuisine encompasses the ways that these and other ingredients, including meat, are dealt with in the kitchen, whether they are health-giving or not."
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p0",
+          "text": "Mediterranean cuisine is the food and methods of preparation used by the people of the Mediterranean basin. The idea of a Mediterranean cuisine originates with the cookery writer Elizabeth David's A Book of Mediterranean Food (1950), and was amplified by other writers working in English."
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p55",
+          "text": "The Mediterranean diet, popularised in the 1970s, is inspired by the cuisine of Greece, especially Crete, and Southern Italy in the early 1960s. The American Diabetes Association writes about \"Mediterranean-Style Eating\", mentioning \"the traditional Mediterranean lifestyle... of... eating healthfully... together among family and friends\", and asserting that \"Mediterranean cuisine is plant-based\", citing the ingredients \"whole grains, fruits, vegetables, herbs and spices, beans, nuts, seeds, and olive oil\", and stating that most foods \"in a Mediterranean diet come from plants\"."
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p25",
+          "text": "The idea of the \"standard Mediterranean\"... is a modern construction of food writers and publicists in Europe and North America earnestly preaching what is now thought to be a healthy diet to their audiences by invoking a stereotype of the healthy other on the shores of the Mediterranean. Their colleagues in Mediterranean countries are only too willing to perpetuate this myth. The fact of the matter is that the Mediterranean contains varied cultures."
+        },
+        {
+          "doc_id": "wiki__mediterranean_diet__p19",
+          "text": "There are variations of the \"Mediterranean diets\" in different countries and among the individual populations of the Mediterranean basin, due to ethnic, cultural, economic and religious diversities. The \"Mediterranean diet\" as defined by dietitians generally includes the following components, which are not typical of diets in the Mediterranean Basin:"
+        }
+      ]
+    },
+    {
+      "query_id": "q_033",
+      "query": "Why is Turkish cuisine described as especially diverse in flavour and influence?",
+      "response": "Turkish cuisine is described as especially diverse in flavor and influence due to its rich cultural heritage and historical trade connections with various regions.",
+      "retrieved_context": [
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_04_20_4_turkey_and_cyprus__p0",
+          "text": "Turkish cuisine sits at the centre of many influences, including Middle Eastern, Greek, Balkan, Caucasian and Asian. I’ve long held the suspicion that cuisines that have had a long history of trade and culinary plasticity are the best – there’s just more flavours and influences historically for them to choose from, and the recipes that last are often the best of the best"
+        },
+        {
+          "doc_id": "wiki__turkish_cuisine__p0",
+          "text": "Turkish cuisine (Turkish: Türk mutfağı) encompasses the traditional and regional foods of Turkey and its diaspora. It developed primarily from Ottoman cuisine, which synthesized Central Asian culinary traditions with Mediterranean and Middle Eastern influences. During the Ottoman period, Turkish cuisine played a central role in influencing the cuisines of the former Ottoman territories, particularly in the Balkans, the Levant, Mesopotamia, North Africa, the South Caucasus and Crimea, resulting in a shared culinary heritage."
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_04_20_4_turkey_and_cyprus__p0",
+          "text": "Dairy features prominently in Turkish cuisine, with a huge variety of cheeses as well as thick delicious yoghurt, which can be served by itself or combined with other flavourings as a side to almost any meal."
+        },
+        {
+          "doc_id": "wiki__turkish_cuisine__p44",
+          "text": "Turkish cuisine has a range of savoury and sweet pastries. Dough-based specialties form an integral part of traditional Turkish cuisine."
+        },
+        {
+          "doc_id": "wiki__ottoman_cuisine__p0",
+          "text": "Ottoman cuisine is the cuisine of the Ottoman Empire and its continuation in the cuisines of Turkey, the Balkans (including Greece, Hungary and Moldova), the Caucasus, the Middle East and Northern Africa."
+        }
+      ]
+    },
+    {
+      "query_id": "q_034",
+      "query": "Why are pigs and dogs both used in truffle hunting, and what is the trade-off between them?",
+      "response": "Pigs and dogs both use truffles, which are natural prey for both animals. However, dogs require training to catch them, while pigs naturally seek out truffles. The trade-off between these two methods is that dogs may consume the truffles too quickly, leading to potential harm during the harvesting process. This makes the truffle pig a symbol of the author's connection to nature and their desire to preserve traditional practices.",
+      "retrieved_context": [
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2018_10_14_69_northern_italy__p3",
+          "text": "The take-home message is that female pigs have a natural affinity for truffles, due to an adrostenol-like compound in them that is similar to a boar sex pheromone, whereas dogs need to be trained to hunt them. Pigs, on the other hand, are likely to eat the truffle as soon as they detect them, and this can be detrimental to the harvesting process. I feel increasingly that the truffle pig is my spirit animal the more I read about them"
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2018_02_18_47_centralitaly__p0",
+          "text": "The take-home message is that female pigs have a natural affinity for truffles, due to an adrostenol-like compound in them that is similar to a boar sex pheromone, whereas dogs need to be trained to hunt them. Pigs, on the other hand, are likely to eat the truffle as soon as they detect them, and this can be detrimental to the harvesting process. I feel increasingly that the truffle pig is my spirit animal the more I read about them."
+        },
+        {
+          "doc_id": "wiki__italian_cuisine__p18",
+          "text": "Castelvetro's book is separated into seasons with hop shoots in the spring and truffles in the winter, detailing the use of pigs in the search for truffles."
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2018_02_18_47_centralitaly__p0",
+          "text": "The trees then need to grow for several years, with the truffles finally appearing between the soil and leaf litter if all conditions have remained ideal. Dogs or pigs are then used to detect the truffles by smell, and there is a delightful table of pros and cons for using either species on “how to” truffle cultivation websites"
+        },
+        {
+          "doc_id": "wiki__italian_cuisine__p98",
+          "text": "On the coast of Marche, fish and seafood are produced. Inland, wild and domestic pigs are used for sausages and prosciuttos. These prosciuttos are not thinly sliced, but cut into bite-sized chunks. Suckling pig, chicken, and fish are often stuffed with rosemary or fennel fronds and garlic before being roasted or placed on the spit."
+        }
+      ]
+    },
+    {
+      "query_id": "q_035",
+      "query": "Why is authentic paella not supposed to be stirred once the rice has been added?",
+      "response": "I don't know based on the provided context.",
+      "retrieved_context": [
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2018_04_29_53_spain__p3",
+          "text": "I added the rice (of the “bomba” variety, specialised for paellas), evenly distributed it, then didn’t stir anymore for the rest of the process. This is important, as one of the hallmarks of a paella is the crust on the bottom of the rice that is wonderfully flavourful (called “socarrat”), and stirring will ruin its formation"
+        },
+        {
+          "doc_id": "wikibooks__cookbook_paella_roja__p6",
+          "text": "Don't mix the ingredients during this final phase. Your paella is done once the rice is just slightly firm to the bite (al dente), the paella is a little moist but not soupy, and there is a bit of toasted rice on the bottom of the paellera. The toasted rice is considered a delicacy throughout the Spanish-speaking world. - Remove the paellaera from the heat and cover it with a clean, white towel"
+        },
+        {
+          "doc_id": "wikibooks__cookbook_arroz_negro_valencian_squid_rice__p10",
+          "text": "Make sure the rice doesn't get too soft. Check the rice again every 10 minutes and reduce the heat slightly after each taste. Your goal is to wind up with rice that has a slightly underdone center. The time it takes to reach this point can vary from 30 minutes to an hour depending on your cooking gear. - Your paella is done once you've accomplished the following three things: 1) The rice should be slightly firm to the bite"
+        },
+        {
+          "doc_id": "wikibooks__cookbook_valencian_inspired_paella__p7",
+          "text": "- Taste the rice in various places about once every four to five minutes. You'll know it's done when it's soft but not pasty. - Replace the bell pepper strips and arrange them in a circular pattern. - Remove the paella from the heat and place a white dish towel over the pan. - Wait 5–10 minutes to allow the rice to absorb the remaining liquid. - Serve hot. You should notice toasted (but not burned) rice at the bottom of the pan."
+        },
+        {
+          "doc_id": "wikibooks__cookbook_arroz_negro_valencian_squid_rice__p10",
+          "text": "Italians use the same approach when cooking pasta. They call this texture al dente, 2) The paella should be a little moist but not soupy, 3) You should have a bit of toasted rice on the bottom of the paellera. This is considered a delicacy throughout the Spanish-speaking world. - Remove the paellera from the heat and cover it with a white towel (NOT ALUMINUM FOIL). Allow it to sit for 5 minutes before serving."
+        }
+      ]
+    },
+    {
+      "query_id": "q_036",
+      "query": "How does ancient Greek cuisine reflect a classic Mediterranean eating pattern?",
+      "response": "ancient Greek cuisine reflects a classic Mediterranean eating pattern.",
+      "retrieved_context": [
+        {
+          "doc_id": "wiki__greek_cuisine__p2",
+          "text": "Ancient Greek cuisine was characterized by its frugality and was founded on the \"Mediterranean triad\": wheat, olive oil, and wine, with meat being rarely eaten and fish being more common. This trend in Greek diet continued in Cyprus and changed only fairly recently when technological progress has made meat more available. Wine and olive oil have always been a central part of it and the spread of grapes and olive trees in the Mediterranean and further afield is correlated with Greek colonization."
+        },
+        {
+          "doc_id": "wiki__greek_cuisine__p1",
+          "text": "Greek cuisine is part of the culture of Greece and is recorded in images and texts from ancient times. Its influence spread to ancient Rome and then throughout Europe and beyond."
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p32",
+          "text": "With common ingredients including the olive, wheat, and grape; a shared climate; and a long period for cultural exchange, it might be expected that a single, pan-Mediterranean cuisine would have developed"
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_10_05_33_greece__p0",
+          "text": "Oh dear, I seem to have written an essay and only covered olive oil… There is so much to discuss in Greek cuisine, but let’s briefly summarise and get to the food! Other hallmarks include a wonderful variety of seafood, many types of cheese, vegetables, honey and animals that are suited to the climate and terrain, such as goats, sheep and chickens."
+        },
+        {
+          "doc_id": "wiki__greek_cuisine__p0",
+          "text": "Greek cuisine is the cuisine of Greece and the Greek diaspora. In common with many other cuisines of the Mediterranean, it is founded on the triad of wheat, olive oil, and wine. It uses vegetables, olive oil, grains, fish, and meat, including pork, poultry, veal and beef, lamb, rabbit, and goat. Other important ingredients include pasta (such as hilopites), cheeses, herbs, lemon juice, olives and olive oil, and yogurt"
+        }
+      ]
+    },
+    {
+      "query_id": "q_037",
+      "query": "Why are fish dishes more common than beef dishes in Greek cuisine?",
+      "response": "I don't know based on the provided context.",
+      "retrieved_context": [
+        {
+          "doc_id": "wiki__greek_cuisine__p7",
+          "text": "The climate and terrain has tended to favour the breeding of goats and sheep over cattle, and thus beef dishes are uncommon. Fish dishes are common in coastal regions and on the islands. A great variety of cheese types are used in Greek cuisine, including Feta, Kasseri, Kefalotyri, Graviera, Anthotyros, Manouri, Metsovone, Ladotyri (cheese with olive oil), Kalathaki (a specialty from the island of Limnos), Katiki Domokou (creamy cheese, suitable for spreads), Mizithra and many more."
+        },
+        {
+          "doc_id": "wiki__greek_cuisine__p2",
+          "text": "Ancient Greek cuisine was characterized by its frugality and was founded on the \"Mediterranean triad\": wheat, olive oil, and wine, with meat being rarely eaten and fish being more common. This trend in Greek diet continued in Cyprus and changed only fairly recently when technological progress has made meat more available. Wine and olive oil have always been a central part of it and the spread of grapes and olive trees in the Mediterranean and further afield is correlated with Greek colonization."
+        },
+        {
+          "doc_id": "wiki__greek_cuisine__p0",
+          "text": "Greek cuisine is the cuisine of Greece and the Greek diaspora. In common with many other cuisines of the Mediterranean, it is founded on the triad of wheat, olive oil, and wine. It uses vegetables, olive oil, grains, fish, and meat, including pork, poultry, veal and beef, lamb, rabbit, and goat. Other important ingredients include pasta (such as hilopites), cheeses, herbs, lemon juice, olives and olive oil, and yogurt"
+        },
+        {
+          "doc_id": "wiki__greek_cuisine__p19",
+          "text": "Apart from the Greek dishes that can be found all over Greece, there are also many regional dishes."
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p40",
+          "text": "Greek cookery makes wide use of vegetables, olive oil, grains, fish, wine, and meat (white and red, including lamb, poultry, rabbit, and pork). Other important ingredients include olives, cheese, aubergine, courgette, lemon juice, vegetables, herbs, bread, and yoghurt"
+        }
+      ]
+    },
+    {
+      "query_id": "q_038",
+      "query": "Why is the tagine pot's design particularly well-suited to the North African environment and food processing needs?",
+      "response": "The tagine pot's design is specifically designed to conserve steam produced by the food inside, making it particularly suitable for North Africa where water can be a scarce resource. Additionally, it helps to evenly and slowly cook food, while lightly caramelizing the ingredients by limiting the amount of liquid in the dish, thus bringing out bright and sweet flavors.",
+      "retrieved_context": [
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_05_07_13_north_africa__p1",
+          "text": "The design of this vessel is primarily designed to conserve the steam produced by the food inside, which is particularly important in North Africa where water can be a scarce resource. It also helps to evenly and slowly cook food, while lightly caramelising the ingredients by virtue of limiting the amount of liquid in the dish, thereby bringing out bright and sweet flavours"
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_05_07_13_north_africa__p1",
+          "text": "I made my tagine with lamb, chickpeas, tomatoes, almonds, butternut squash, sweet potato, carrots, olives, preserved lemon, dried apricots and dates, with spices such as cumin, cinnamon, ginger, paprika, garlic and coriander. I particularly like the addition of fruit to savoury dishes, and have therefore always loved North African stews"
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_05_07_13_north_africa__p1",
+          "text": "Tagines are named for the earthenware pot they are cooked in, consisting of a slow-cooked spiced meat stew flavoured with dried fruits and nuts. The typical tagine pot has a shallow bowl on the bottom that holds the stew, and a conical lid that fits snugly on top. The pot is then traditionally placed over hot charcoal to slowly cook for many hours (although I suppose an electric stove top on a very low heat will do)"
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p34",
+          "text": "One stew that may be served with couscous is the Moroccan tagine, a hearty, somewhat dry dish of meat and vegetables, cooked slowly in a pot (called a tagine) with a tall conical lid. Dishes from the Maghreb region of North Africa are often coloured and flavoured with the hot spice mixtures harissa and ras el hanout (containing such spices as cumin, coriander, saffron, cinnamon, cloves, chillies, and paprika). Other characteristic flavourings of the region are preserved lemons and dried apricots and raisins."
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_05_07_13_north_africa__p3",
+          "text": "This dish has many practical attributes including (not least) being incredibly tasty, providing an enormous amount of nutrients and dietary fibre from all of the legumes, being easy to prepare, and one of the cheapest dishes I’ve made"
+        }
+      ]
+    },
+    {
+      "query_id": "q_039",
+      "query": "How was the reputation of Provence wines viewed historically compared to more recent times?",
+      "response": "The reputation of Provence wines viewed historically compared to more recent times was poor.",
+      "retrieved_context": [
+        {
+          "doc_id": "wiki__provence__p116",
+          "text": "The Romans complained about the competition from and poor quality of the wines of Provence. In the 1st century AD the Roman poet Martial condemned the wines of Marseille as \"terrible poisons, and never sold at a good price.\""
+        },
+        {
+          "doc_id": "wiki__provence__p117",
+          "text": "As recently as the 1970s the wines of Provence had the reputation of being rather ordinary: In 1971 wine critic Hugh Johnson wrote: \"The whites are dry and can lack the acidity to be refreshing; the reds are straightforward, strong and a trifle dull; it is usually the rosés, often orange-tinted, which have most appeal.\" He added, \"Cassis and Bandol distinguish themselves for their white and red wines respectively. Cassis (no relation of the blackcurrant syrup) is livelier than the run of Provençal white wine, and Bandol leads the red in much the same way.\""
+        },
+        {
+          "doc_id": "wiki__provence__p115",
+          "text": "The wines of Provence were probably introduced into Provence around 600 BC by the Greek Phoceans who founded Marseille and Nice. After the Roman occupation, in 120 BC the Roman Senate forbade the growing of vines and olives in Provence, to protect the profitable trade in exporting Italian wines, but in the late Roman empire retired soldiers from Roman Legions settled in Provence and were allowed to grow grapes."
+        },
+        {
+          "doc_id": "wiki__provence__p118",
+          "text": "Since that time, cultivation of poorer varieties has been reduced and new technologies and methods have improved the quality considerably."
+        },
+        {
+          "doc_id": "wiki__provence__p120",
+          "text": "The great majority of the wines produced in Provence are rosés. The most characteristic grape is mourvèdre, used most famously in the red wines of Bandol. Cassis is the only area in Provence known for its white wines."
+        }
+      ]
+    },
+    {
+      "query_id": "q_040",
+      "query": "How is Mediterranean cuisine both unified and diverse?",
+      "response": "I don't know based on the provided context.",
+      "retrieved_context": [
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p11",
+          "text": "The very idea of a Mediterranean ensemble—be it onions and olive oil and tomatoes or some other combination entirely—presupposes not only a shared history but a unified history, an imagined moment in which the Mediterranean presented a single culture that over time has, like a language, split and branched and flowered into the wild variety of contemporary cuisine."
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p32",
+          "text": "With common ingredients including the olive, wheat, and grape; a shared climate; and a long period for cultural exchange, it might be expected that a single, pan-Mediterranean cuisine would have developed"
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p11",
+          "text": "The belief in a common core, emerging from a claim to authority over that kernel of \"Mediterranean-ness\", is what underlies writing describing the culinary Mediterranean, yet it seems that only from far away does a unified Mediterranean exist"
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p2",
+          "text": "The region spans a wide variety of cultures with distinct cuisines, in particular (going anticlockwise around the region) the Maghrebi, Egyptian, Levantine, Ottoman (Turkish), Greek, Italian, French (Provençal), and Spanish, although some authors include additional cuisines. Portuguese cuisine, in particular, is partly Mediterranean in character."
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p25",
+          "text": "The idea of the \"standard Mediterranean\"... is a modern construction of food writers and publicists in Europe and North America earnestly preaching what is now thought to be a healthy diet to their audiences by invoking a stereotype of the healthy other on the shores of the Mediterranean. Their colleagues in Mediterranean countries are only too willing to perpetuate this myth. The fact of the matter is that the Mediterranean contains varied cultures."
+        }
+      ]
+    },
+    {
+      "query_id": "q_041",
+      "query": "What changes in staple ingredients and drinks illustrate the transition of Egyptian cuisine during the Greco-Roman period?",
+      "response": "Staple ingredients and drinks in Egyptian cuisine during the Greco-Roman period included grains, pulses, oil, and beer.",
+      "retrieved_context": [
+        {
+          "doc_id": "wiki__egyptian_cuisine__p10",
+          "text": "Food in Greco-Roman Egypt reflected both local traditions and foreign influences, particularly from the Greeks and Romans. The staple diet for most people consisted of grains, pulses, oil, and beer. Vegetables such as lentils, chickpeas, onions, cucumbers, and turnips were widely consumed, while fruits, especially dates, were an important source of vitamins. Olive oil, introduced by the Greeks, gradually replaced radish oil, although it remained more expensive. Beer, traditionally made from fermented bread, was the dominant drink in earlier periods, but wine became increasingly popular, especially under Roman rule, with vineyards thriving in regions like Alexandria and Fayoum."
+        },
+        {
+          "doc_id": "wiki__egyptian_cuisine__p20",
+          "text": "Despite this divide, many core ingredients, fava beans, molokheya, and preserved dairy, remained central to Egyptian cuisine."
+        },
+        {
+          "doc_id": "wiki__egyptian_cuisine__p5",
+          "text": "Ancient Egyptian cuisine, which remained relatively consistent for over three millennia, was centered around bread and beer, consumed daily by all social classes. These staples were often accompanied by onions, legumes, vegetables, and, for those who could afford it, meat, fish, and poultry. Food preparation included baking, boiling, stewing, grilling, frying, and roasting, with wealthier Egyptians having access to imported spices and sweeteners such as honey and dates."
+        },
+        {
+          "doc_id": "wiki__egyptian_cuisine__p13",
+          "text": "Medieval Egyptian cuisine was shaped by a combination of agriculture, trade, and cultural influences. The 14th century cookbook Kanz al-Fawa’id fī Tanwi‘ al-Mawa’id provides insight into the era's culinary practices. Egypt's fertile lands, nourished by the Nile, supported the cultivation of native and introduced crops, including rice, sugarcane, and citrus fruits, which arrived following the Arab conquest in 641 CE"
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p32",
+          "text": "With common ingredients including the olive, wheat, and grape; a shared climate; and a long period for cultural exchange, it might be expected that a single, pan-Mediterranean cuisine would have developed"
+        }
+      ]
+    },
+    {
+      "query_id": "q_042",
+      "query": "Why did bacalhau become such an important ingredient in Portuguese cuisine despite Portugal’s strong access to fresh fish?",
+      "response": "Portugal's strong access to fresh fish led to its preference for bacalhau, which became an essential ingredient in Portuguese cuisine despite Portugal being known for its abundant fish consumption.",
+      "retrieved_context": [
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_05_10_15_portugal__p2",
+          "text": "Rather than having a specific national dish, Portugal has more of a national ingredient: bacalhau. Bacalhau is dried and salted cod, and despite the fact that Portugal is a renowned lover of fresh fish, with their fish consumption per capita the highest in the European union, so it may seem a bit strange that this coastal country would have such a deep affection for a preserved fish, generally primarily necessary for landlocked regions"
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_05_10_15_portugal__p2",
+          "text": "The beginnings of bacalhau date back to around 500 years ago, and may have arisen due to the low oil content of cod flesh, making it particularly amenable to the salting and drying process, as well as the utility of this ingredient for long sea voyages without refrigeration at a time when Portugal was centrally involved in the discovery and colonisation of the New world"
+        },
+        {
+          "doc_id": "wiki__portuguese_cuisine__p11",
+          "text": "Foremost amongst these is bacalhau (cod), which is the type of fish most consumed in Portugal. It is said that there are more than 365 ways to cook cod, meaning at least one dish for each day of the year. Cod is almost always used dried and salted, because the Portuguese fishing tradition in the North Atlantic developed before the invention of refrigeration —therefore it needs to be soaked in water or sometimes milk before cooking. The simpler fish dishes are often flavoured with virgin olive oil and white wine vinegar."
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p52",
+          "text": "However, Portugal's Atlantic coast is significantly wetter. Its cuisine too is partly Mediterranean, with the usual trio of bread, wine, and olive oil, but also partly Atlantic, with a tradition of fishing and many seafood dishes such as seafood rice (arroz de Marisco), clams, squid (lulas grelhadas), and bacalhau, imported salted cod. There are, equally, many meat dishes, using chicken, pork, and rabbit"
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_05_10_15_portugal__p2",
+          "text": "Bacalhau was therefore a must to cook for Portuguese week, but it was difficult to pick just one dish, with classics in the running such as bacalhau com natas (a casserole of salted cod with cream), bolinhos de bacalhau (salted cod croquettes), bacalhau à zé do pipo (salted cold baked with mashed potato and mayonnaise), and bacalhau com todos (salted cod tossed together with boiled vegetables, garlic and hardboiled egg)"
+        }
+      ]
+    },
+    {
+      "query_id": "q_043",
+      "query": "What are the proven health benefits of olive oil?",
+      "response": "Olive oil is rich in healthy fats like monounsaturated and polyunsaturated oils, which can help lower cholesterol levels and reduce the risk of heart disease.",
+      "retrieved_context": [
+        {
+          "doc_id": "wiki__mediterranean_diet__p4",
+          "text": "The European Food Safety Authority Panel on Dietetic Products, Nutrition and Allergies approved health claims on olive oil, for protection by its polyphenols against oxidation of blood lipids and for the contribution to the maintenance of normal blood LDL-cholesterol levels by replacing saturated fats in the diet with oleic acid (Commission Regulation (EU) 432/2012 of 16 May 2012)"
+        },
+        {
+          "doc_id": "wiki__mediterranean_diet__p4",
+          "text": "A 2014 meta-analysis concluded that an elevated consumption of olive oil is associated with reduced risk of all-cause mortality, cardiovascular events and stroke, while monounsaturated fatty acids of mixed animal and plant origin showed no significant effects."
+        },
+        {
+          "doc_id": "wiki__mediterranean_diet__p4",
+          "text": "The Mediterranean diet is low in saturated fat with high amounts of monounsaturated fat and dietary fiber. One possible factor is the potential health effects of olive oil in the Mediterranean diet. Olive oil contains monounsaturated fats, most notably oleic acid, which is under clinical research for its potential health benefits"
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_10_05_33_greece__p0",
+          "text": "The quality of olive oil is often advertised as percent of acidity, and luckily I was recently awarded a PhD in science, so I am qualified to vaguely attempt to explain what that actually means. In a fresh olive, fatty acids are bound up into threes and only come into contact with enzymes that degrade them (releasing free fatty acids) when the olive is crushed or starts breaking down/fermenting"
+        },
+        {
+          "doc_id": "wiki__mediterranean_diet__p1",
+          "text": "While based on a specific time and place, the \"Mediterranean diet\" generically describes an eating pattern that has been refined based on the results of multiple scientific studies. It emphasizes plant-based foods, particularly unprocessed cereals, legumes, vegetables, and fruits; moderate consumption of fish and dairy products (mostly cheese and yogurt); and low amounts of red meat, refined grains, and sugar. Alcohol intake is limited to wine (typically the red variety) consumed in low to moderate amounts, usually with meals. Olive oil is the principal source of fat and has been studied as a potential health factor for reducing all-cause mortality and the risk of chronic diseases."
+        }
+      ]
+    },
+    {
+      "query_id": "q_044",
+      "query": "Summarize the potential effects of the Mediterranean diet on brain health and mental state, and the limitations of the research.",
+      "response": "The Mediterranean diet has been shown to be beneficial for brain health and mental state by reducing the risk of Alzheimer's disease and slowing cognitive decline. However, there is limited research on its effect on depression.",
+      "retrieved_context": [
+        {
+          "doc_id": "wiki__mediterranean_diet__p15",
+          "text": "A 2016 systematic review found a relation between greater adherence to a Mediterranean diet and better cognitive performance; it is unclear if the relationship is causal."
+        },
+        {
+          "doc_id": "wiki__mediterranean_diet__p16",
+          "text": "According to a 2013 systematic review, greater adherence to a Mediterranean diet is correlated with a lower risk of Alzheimer's disease and slower cognitive decline. Another 2013 systematic review reached similar conclusions, and also found a negative association with the risk of progressing from mild cognitive impairment to Alzheimer's, but acknowledged that only a small number of studies had been done on the topic."
+        },
+        {
+          "doc_id": "wiki__mediterranean_diet__p6",
+          "text": "A 2017 review found evidence that practice of a Mediterranean diet could lead to reduced risk of cardiovascular diseases, overall cancer incidence, neurodegenerative diseases, diabetes, and early death. A 2018 review showed that practice of the Mediterranean diet may improve overall health status, such as reduced risk of non-infectious diseases, may reduce total costs of living, and may reduce costs for national healthcare. A 2016 review found similar weight loss as other diets."
+        },
+        {
+          "doc_id": "wiki__mediterranean_diet__p17",
+          "text": "Observational studies have found a correlation between adherence to the Mediterranean diet and a lower risk of depression but have not proven that a Mediterranean diet lowers the risk of depression."
+        },
+        {
+          "doc_id": "wiki__mediterranean_diet__p9",
+          "text": "Other reviews in 2016-17 reached further conclusions about the ability of a Mediterranean diet to improve cardiovascular risk factors, such as lowering the risk for hypertension and other cardiovascular diseases."
+        }
+      ]
+    },
+    {
+      "query_id": "q_045",
+      "query": "Which Mediterranean country has the highest per capita olive oil consumption?",
+      "response": "Greece",
+      "retrieved_context": [
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p15",
+          "text": "The olive yields bitter fruits, made edible by curing and fermentation, and olive oil. Some 90% of the fruit production (1996) goes into olive oil. The Mediterranean region accounts for the world's highest consumption of olive oil: in 2014, the highest-consuming country, Greece, used 17 kg [ a ] per head; Italy, 12 kg, Spain, 13 kg; the United States for comparison used only 1 kg per head."
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p14",
+          "text": "The olive appears to come from the region of Persia and Mesopotamia, at least 6,000 years ago. It spread from there to nearby areas, and has been cultivated since the early Bronze Age (up to 3,150 BC) in southern Turkey, the Levant, and Crete. The ten countries with the largest harvests (in 2011) are all near the Mediterranean (Portugal being the tenth largest): together, they produce 95% of the world's olives."
+        },
+        {
+          "doc_id": "wiki__italian_cuisine__p38",
+          "text": "Olive oil is the most commonly used vegetable fat in Italian cooking and as the basis for sauces, replaced only in some recipes and in some geographical areas by butter or lard. Italy is the largest consumer of olive oil, at 30% of the world total. It also has the largest range of olive cultivars in existence and is the second largest producer and exporter in the world, producing more than 464,000 tons. Bread has always been a fundamental food in Italian cuisine, and that of other Mediterranean countries. There are numerous regional types of bread."
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2017_10_05_33_greece__p0",
+          "text": "Greece is world-renowned for its delicious food, having a wonderful mixture of Mediterranean and Baltic flavours. One of the major icons of Greek cuisine is olive oil, made from the beautiful silver olive trees that cover the country. I’ve been to Greece a couple of times for work (lucky me!), and spent most of that time in Crete"
+        },
+        {
+          "doc_id": "wiki__mediterranean_diet__p21",
+          "text": "Some cuisines of the Mediterranean region are not fully consistent with Mediterranean diet guidelines. For instance, olive oil is not the staple fat in the cuisines of all countries which border the Mediterranean: in northern and central Italy, lard and butter are commonly used in cooking, and olive oil is reserved for dressing salads and cooked vegetables; in both North Africa and the Middle East, sheep's tail fat and rendered butter (samna) are traditional staple fats."
+        }
+      ]
+    },
+    {
+      "query_id": "q_046",
+      "query": "How many grams of olive oil are recommended daily in the Mediterranean diet?",
+      "response": "340 grams",
+      "retrieved_context": [
+        {
+          "doc_id": "wiki__mediterranean_diet__p4",
+          "text": "The Mediterranean diet is low in saturated fat with high amounts of monounsaturated fat and dietary fiber. One possible factor is the potential health effects of olive oil in the Mediterranean diet. Olive oil contains monounsaturated fats, most notably oleic acid, which is under clinical research for its potential health benefits"
+        },
+        {
+          "doc_id": "wiki__mediterranean_diet__p1",
+          "text": "While based on a specific time and place, the \"Mediterranean diet\" generically describes an eating pattern that has been refined based on the results of multiple scientific studies. It emphasizes plant-based foods, particularly unprocessed cereals, legumes, vegetables, and fruits; moderate consumption of fish and dairy products (mostly cheese and yogurt); and low amounts of red meat, refined grains, and sugar. Alcohol intake is limited to wine (typically the red variety) consumed in low to moderate amounts, usually with meals. Olive oil is the principal source of fat and has been studied as a potential health factor for reducing all-cause mortality and the risk of chronic diseases."
+        },
+        {
+          "doc_id": "wikibooks__cookbook_paella_roja__p2",
+          "text": "- Olive oil - 1½–2 red bell peppers, cut into strips - Salt to taste - 340 grams (12 ounces) boneless chicken breast or tenderloins - 6 large garlic cloves, minced - 225 grams (8 ounces) onion, diced - 450 grams (1 pound) red bell pepper, diced - 450 grams (1 pound) tomatoes, diced - 1 tablespoon sweet paprika - 225 grams (6 ounces) canned beans (e.g"
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p15",
+          "text": "The olive yields bitter fruits, made edible by curing and fermentation, and olive oil. Some 90% of the fruit production (1996) goes into olive oil. The Mediterranean region accounts for the world's highest consumption of olive oil: in 2014, the highest-consuming country, Greece, used 17 kg [ a ] per head; Italy, 12 kg, Spain, 13 kg; the United States for comparison used only 1 kg per head."
+        },
+        {
+          "doc_id": "wiki__mediterranean_diet__p4",
+          "text": "A 2014 meta-analysis concluded that an elevated consumption of olive oil is associated with reduced risk of all-cause mortality, cardiovascular events and stroke, while monounsaturated fatty acids of mixed animal and plant origin showed no significant effects."
+        }
+      ]
+    },
+    {
+      "query_id": "q_047",
+      "query": "Which Mediterranean fish is considered the most nutritious?",
+      "response": "Olive oil",
+      "retrieved_context": [
+        {
+          "doc_id": "wiki__mediterranean_diet__p4",
+          "text": "The Mediterranean diet is low in saturated fat with high amounts of monounsaturated fat and dietary fiber. One possible factor is the potential health effects of olive oil in the Mediterranean diet. Olive oil contains monounsaturated fats, most notably oleic acid, which is under clinical research for its potential health benefits"
+        },
+        {
+          "doc_id": "wiki__italian_cuisine__p41",
+          "text": "Since Italy is largely surrounded by the sea, therefore having a great coastal development and being rich in lakes, fish (both marine and freshwater), as well as crustaceans, molluscs, and other seafood, enjoy a prominent place in Italian cuisine, as in general in the Mediterranean cuisine. Fish is the second course in meals and is also an ingredient in the preparation of seasonings for types of pasta. It is also widely used in appetisers."
+        },
+        {
+          "doc_id": "wiki__mediterranean_diet__p1",
+          "text": "While based on a specific time and place, the \"Mediterranean diet\" generically describes an eating pattern that has been refined based on the results of multiple scientific studies. It emphasizes plant-based foods, particularly unprocessed cereals, legumes, vegetables, and fruits; moderate consumption of fish and dairy products (mostly cheese and yogurt); and low amounts of red meat, refined grains, and sugar. Alcohol intake is limited to wine (typically the red variety) consumed in low to moderate amounts, usually with meals. Olive oil is the principal source of fat and has been studied as a potential health factor for reducing all-cause mortality and the risk of chronic diseases."
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p4",
+          "text": "The cooking of the area is not to be confused with the Mediterranean diet, made popular because of the apparent health benefits of a diet rich in olive oil, wheat and other grains, fruits, vegetables, and a certain amount of seafood, but low in meat and dairy products. Mediterranean cuisine encompasses the ways that these and other ingredients, including meat, are dealt with in the kitchen, whether they are health-giving or not."
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p32",
+          "text": "Seafood including sea bream and squid is eaten, often in stews, stuffed, or fried, in Spanish, French, and Italian dishes. Despite this, however, the lands bordering the Mediterranean sea have distinct regional cuisines, from the Maghrebi, Levant, and Ottoman to the Italian, French, and Spanish. Each of those, in turn, has national and provincial variations."
+        }
+      ]
+    },
+    {
+      "query_id": "q_048",
+      "query": "Which country's desserts are most preferred across the Mediterranean region?",
+      "response": "Italy",
+      "retrieved_context": [
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p43",
+          "text": "Mediterranean Italian cuisine includes much of Italy outside the north and the mountainous inland regions. It is a diverse cuisine, but among its best-known and most characteristic foods are pizza in Neapolitan and Sicilian styles, pasta dishes such as spaghetti, and risotto."
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p2",
+          "text": "The region spans a wide variety of cultures with distinct cuisines, in particular (going anticlockwise around the region) the Maghrebi, Egyptian, Levantine, Ottoman (Turkish), Greek, Italian, French (Provençal), and Spanish, although some authors include additional cuisines. Portuguese cuisine, in particular, is partly Mediterranean in character."
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p21",
+          "text": "Mediterranean food is incredibly popular: pasta, pizza, sausage, wine, gyros, [ b ] kebab, and falafel can be found just about everywhere. Food experts and cookbook authors adore Mediterranean cuisine..."
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p32",
+          "text": "Seafood including sea bream and squid is eaten, often in stews, stuffed, or fried, in Spanish, French, and Italian dishes. Despite this, however, the lands bordering the Mediterranean sea have distinct regional cuisines, from the Maghrebi, Levant, and Ottoman to the Italian, French, and Spanish. Each of those, in turn, has national and provincial variations."
+        },
+        {
+          "doc_id": "wiki__mediterranean_cuisine__p47",
+          "text": "Mediterranean French cuisine includes the cooking styles of Provence, Occitania, and the island of Corsica. Distinctive dishes that make use of local ingredients include bouillabaisse and salade niçoise."
+        }
+      ]
+    },
+    {
+      "query_id": "q_049",
+      "query": "Who originally invented the Greek salad?",
+      "response": "Greek salad was invented by Nikolaos Tselementes.",
+      "retrieved_context": [
+        {
+          "doc_id": "wiki__greek_cuisine__p15",
+          "text": "In the 20th century, French cuisine had a major influence on Greek cooking, largely due to the French-trained chef Nikolaos Tselementes, who created the modern Greek pastitsio; he also created the modern Greek version of moussaka by combining an existing eggplant dish with a French-style gratin topping. Greek chef Zisis Kerameas has recognized for his contribution to Greek cuisine and as culinary arts teacher (1970–2000) at public vocational tourism professions schools."
+        },
+        {
+          "doc_id": "wiki__greek_cuisine__p4",
+          "text": "Byzantine cuisine was similar to ancient cuisine, with the addition of new ingredients, such as caviar, nutmeg and basil. Lemons, prominent in Greek cuisine and introduced in the second century, were used medicinally before being incorporated into the diet. Fish continued to be an integral part of the diet for coastal dwellers. Culinary advice was influenced by the theory of humors, first put forth by the ancient Greek doctor Claudius Aelius Galenus. Byzantine cuisine benefited from Constantinople's position as a global hub of the spice trade."
+        },
+        {
+          "doc_id": "wikibooks__cookbook_arroz_negro_valencian_squid_rice__p4",
+          "text": "The below recipe is based on the one by Juanry Seguí, a prominent Valencian chef."
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2018_04_29_53_spain__p2",
+          "text": "During the 19th century, tomatoes became integral to the recipe as they gained popularity in Europe. I grew up hearing pop-culture references to gazpacho, including Lisa Simpson offering the greatly-disparaged dish as a vegetarian option at her father’s barbecue, and Rimmer making the ultimate social faux pas by loudly sending back his gazpacho starter at a fancy dinner because it was cold on an episode of “Red Dwarf”"
+        },
+        {
+          "doc_id": "blog80__aroundtheworldin80cuisinesblog_wordpress_com_2018_10_14_69_northern_italy__p3",
+          "text": "The dish is thought to be so old that it predates the expansion of the Roman Empire, when simple vegetable soups were a foundation of local diets before the influx of products and influences that increased the consumption of meat and introduced bread to the people"
+        }
+      ]
+    }
+  ]
+}

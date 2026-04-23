@@ -1,0 +1,14 @@
+{
+  "processed_raw_files": 58,
+  "total_blocks_written": 854,
+  "blocks_per_source": {
+    "blog80cuisines": 44,
+    "wikipedia": 728,
+    "wikibooks": 82
+  },
+  "exact_duplicates_removed": 47,
+  "average_block_length_chars": 527.29,
+  "median_block_length_chars": 410.5,
+  "max_block_length_chars": 5639,
+  "blocks_over_1200_chars": 57
+}

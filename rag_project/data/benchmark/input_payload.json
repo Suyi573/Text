@@ -1,0 +1,204 @@
+{
+  "queries": [
+    {
+      "query_id": "q_000",
+      "query": "The name 'bouillabaisse' is derived from which two words?"
+    },
+    {
+      "query_id": "q_001",
+      "query": "Which two ingredients are traditionally not used in authentic Italian carbonara?"
+    },
+    {
+      "query_id": "q_002",
+      "query": "What is chermoula?"
+    },
+    {
+      "query_id": "q_003",
+      "query": "What is passata in Italian cuisine?"
+    },
+    {
+      "query_id": "q_004",
+      "query": "What are the three core components of the Mediterranean dietary trinity?"
+    },
+    {
+      "query_id": "q_005",
+      "query": "In Trapani (Sicily), which North African-influenced dish is commonly served with fish?"
+    },
+    {
+      "query_id": "q_006",
+      "query": "What dish is traditionally eaten on Thursdays in the Lazio region of Italy?"
+    },
+    {
+      "query_id": "q_007",
+      "query": "What health benefit is commonly associated with drinking karkadeh in Egypt?"
+    },
+    {
+      "query_id": "q_008",
+      "query": "How are French and Italian cuisines contrasted?"
+    },
+    {
+      "query_id": "q_009",
+      "query": "Which plant is known as the bread tree in Mediterranean mountain regions?"
+    },
+    {
+      "query_id": "q_010",
+      "query": "What type of flour is commonly used to fry fish in the Black Sea region?"
+    },
+    {
+      "query_id": "q_011",
+      "query": "What are the typical fillings of su böreği in Turkish cuisine?"
+    },
+    {
+      "query_id": "q_012",
+      "query": "Why did the Romans forbid growing vines in Provence in 120 BC?"
+    },
+    {
+      "query_id": "q_013",
+      "query": "Why can olive oil replace saturated fats?"
+    },
+    {
+      "query_id": "q_014",
+      "query": "What causes a soufflé to rise during baking?"
+    },
+    {
+      "query_id": "q_015",
+      "query": "Which herb is used extensively in Sicilian cooking compared to the rest of Italy?"
+    },
+    {
+      "query_id": "q_016",
+      "query": "What tree is used to define the Mediterranean region?"
+    },
+    {
+      "query_id": "q_017",
+      "query": "What type of dish is dolma?"
+    },
+    {
+      "query_id": "q_018",
+      "query": "What are some common ingredients in Greek desserts?"
+    },
+    {
+      "query_id": "q_019",
+      "query": "What happens to Asturian cider when it is poured using the traditional escanciada technique?"
+    },
+    {
+      "query_id": "q_020",
+      "query": "How does the pizza Quattro Stagioni represent the four seasons through its toppings?"
+    },
+    {
+      "query_id": "q_021",
+      "query": "How does the Healthy Mediterranean-Style Eating Pattern differ from the Healthy U.S.-Style Eating Pattern?"
+    },
+    {
+      "query_id": "q_022",
+      "query": "What is the key difference between dolma and sarma in Turkish cuisine?"
+    },
+    {
+      "query_id": "q_023",
+      "query": "What three conditions indicate that a paella is done?"
+    },
+    {
+      "query_id": "q_024",
+      "query": "Why are indentations made in focaccia dough during preparation in Ligurian cuisine?"
+    },
+    {
+      "query_id": "q_025",
+      "query": "What do early Egyptian cheese remains tell us about how cheese was made?"
+    },
+    {
+      "query_id": "q_026",
+      "query": "How does arroz negro reflect Mediterranean seafood cuisine?"
+    },
+    {
+      "query_id": "q_027",
+      "query": "What characterizes the typical ingredients used in Sicilian cooking?"
+    },
+    {
+      "query_id": "q_028",
+      "query": "What is the philosophy behind cucina povera in Tuscan cuisine?"
+    },
+    {
+      "query_id": "q_029",
+      "query": "Why is Mediterranean cuisine considered culturally unified?"
+    },
+    {
+      "query_id": "q_030",
+      "query": "How did Greek cuisine influence other regions?"
+    },
+    {
+      "query_id": "q_031",
+      "query": "What factors contributed to the development of Italian cuisine over time?"
+    },
+    {
+      "query_id": "q_032",
+      "query": "What is the key difference between the Mediterranean diet and Mediterranean cuisine?"
+    },
+    {
+      "query_id": "q_033",
+      "query": "Why is Turkish cuisine described as especially diverse in flavour and influence?"
+    },
+    {
+      "query_id": "q_034",
+      "query": "Why are pigs and dogs both used in truffle hunting, and what is the trade-off between them?"
+    },
+    {
+      "query_id": "q_035",
+      "query": "Why is authentic paella not supposed to be stirred once the rice has been added?"
+    },
+    {
+      "query_id": "q_036",
+      "query": "How does ancient Greek cuisine reflect a classic Mediterranean eating pattern?"
+    },
+    {
+      "query_id": "q_037",
+      "query": "Why are fish dishes more common than beef dishes in Greek cuisine?"
+    },
+    {
+      "query_id": "q_038",
+      "query": "Why is the tagine pot's design particularly well-suited to the North African environment and food processing needs?"
+    },
+    {
+      "query_id": "q_039",
+      "query": "How was the reputation of Provence wines viewed historically compared to more recent times?"
+    },
+    {
+      "query_id": "q_040",
+      "query": "How is Mediterranean cuisine both unified and diverse?"
+    },
+    {
+      "query_id": "q_041",
+      "query": "What changes in staple ingredients and drinks illustrate the transition of Egyptian cuisine during the Greco-Roman period?"
+    },
+    {
+      "query_id": "q_042",
+      "query": "Why did bacalhau become such an important ingredient in Portuguese cuisine despite Portugal’s strong access to fresh fish?"
+    },
+    {
+      "query_id": "q_043",
+      "query": "What are the proven health benefits of olive oil?"
+    },
+    {
+      "query_id": "q_044",
+      "query": "Summarize the potential effects of the Mediterranean diet on brain health and mental state, and the limitations of the research."
+    },
+    {
+      "query_id": "q_045",
+      "query": "Which Mediterranean country has the highest per capita olive oil consumption?"
+    },
+    {
+      "query_id": "q_046",
+      "query": "How many grams of olive oil are recommended daily in the Mediterranean diet?"
+    },
+    {
+      "query_id": "q_047",
+      "query": "Which Mediterranean fish is considered the most nutritious?"
+    },
+    {
+      "query_id": "q_048",
+      "query": "Which country's desserts are most preferred across the Mediterranean region?"
+    },
+    {
+      "query_id": "q_049",
+      "query": "Who originally invented the Greek salad?"
+    }
+  ]
+}

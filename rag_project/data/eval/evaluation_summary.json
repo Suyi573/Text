@@ -1,0 +1,11 @@
+{
+  "answerable_total": 45,
+  "unanswerable_total": 5,
+  "exact_match_accuracy": 0.0444,
+  "keyword_match_accuracy": 0.1556,
+  "average_token_f1": 0.2542,
+  "unanswerable_accuracy": 0.0,
+  "idk_precision": 0.0,
+  "idk_recall": 0.0,
+  "idk_f1": 0.0
+}
